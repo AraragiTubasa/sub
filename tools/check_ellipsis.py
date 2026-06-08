@@ -35,7 +35,7 @@ DOTS = re.compile(r"\.{3,}")
 # 默认检查所有对白行（英文/罗马音行也查）。若哪天想跳过纯英文/罗马音行
 # （其 ... 多为合法），把它改成 True 即可。
 SKIP_NON_CJK = False
-CJK = re.compile(r"[぀-ヿ㐀-鿿豈-﫿]")
+CJK = re.compile(r"[\u3040-\u30FF\u3400-\u9FFF\uF900-\uFAFF]")  # 假名 + 基本汉字/扩展A + 兼容汉字
 
 TAG = re.compile(r"\{[^}]*\}")          # ASS 特效标签 {...}
 SUGGEST = "……"
