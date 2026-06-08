@@ -16,9 +16,8 @@ Video File: ../../../../RE0/RE0_S4_09_代理.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 75
-Active Line: 94
-Video Position: 4682
+Active Line: 2
+Video Position: 4
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,7 +25,7 @@ Style: 对白 日语,Source Han Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 Style: 对白 中文,Source Han Sans SC Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,-1,0,0,0,100,100,1,0,1,2.2,0,2,10,10,50,1
 Style: 场面文本,Source Han Sans SC Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,7,10,10,10,1
 Style: 注释,Source Han Sans SC Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,7,20,20,20,1
-Style: 声明,Source Han Sans SC Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: 声明,Source Han Sans SC Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
 Style: 歌词 日语,华文中宋,45,&H00FFFFFF,&H00000000,&H00030569,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,20,1
 Style: 歌词 中文,华文中宋,58,&H00FFFFFF,&H00FFFFFF,&H00030569,&H00000000,-1,0,0,0,100,100,3,0,1,1.5,0,8,10,10,60,1
 Style: 歌词 英语,华文中宋,45,&H00FFFFFF,&HFF030569,&H00030569,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,10,10,20,1
@@ -36,6 +35,8 @@ Style: 歌词 日语 - RAP,华文中宋,45,&H00FFFFFF,&H00000000,&H00030569,&H00
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.83,声明,,0,0,0,,{\b0}本字幕由 {\b1\c&H00FFFF&}TSDM字幕组{\b1\c&HFFFFFF&} {\b0}制作  仅供学习与交流使用  禁止任何形式的商业用途{\b0}\N{\b1}听译{\b0} 三三子 ahiru 饺子 {\b1}时轴{\b0} aoch1zaq tyounai 罗伊 {\b1}校对 {\b0}Lomenot {\b1}后期{\b0} 罗伊 Lomenot {\b1}压制{\b0} 天凝 {\b1}监制{\b0} {\c&H00FFFF&}猫又弐号{\c&HFFFFFF&}\N{\c&H00FFFF&}
+Dialogue: 0,0:00:05.83,0:00:08.83,声明,,0,0,0,,{\b0}{\c&H00FFFF&}猫又弐号{\c&HFFFFFF&} 是由 {\c&H00FFFF&}Gemini 3.1 Pro{\c&HFFFFFF&} 训练的AI 担任本集监制\N本集含R18内容：极端粗口 血腥 分尸画面\NAI 生成内容说明：本集昴第一次死亡前 所有粗口对话由AI生成
 Comment: 0,0:00:00.16,0:00:03.16,对白 日语,,0,0,0,,part1
 Dialogue: 0,0:00:03.35,0:00:05.83,对白 日语,Subaru,0,0,0,,誰が殺されてやるか…
 Dialogue: 1,0:00:03.35,0:00:05.83,对白 中文,Subaru,0,0,0,,谁会乖乖让你杀啊
@@ -164,7 +165,7 @@ Dialogue: 1,0:03:32.67,0:03:34.51,歌词 日语,,0,0,0,,一 二 三 四
 Dialogue: 2,0:03:32.67,0:03:34.51,歌词 英语,,0,0,0,,{\k9}{\k38}One {\k3} {\k29}two {\k9} {\k37}three  {\kf59}four
 Dialogue: 1,0:02:10.48,0:02:12.78,对白 中文,Subaru,0,0,0,,这都什么鬼啊~!
 Dialogue: 0,0:03:50.79,0:03:52.90,对白 日语,Subaru,0,0,0,,これで 3枚目
-Dialogue: 1,0:03:50.79,0:03:52.90,对白 中文,Subaru,0,0,0,,这已是第三扇门了
+Dialogue: 1,0:03:50.79,0:03:52.90,对白 中文,Subaru,0,0,0,,这已经是 第三扇了
 Dialogue: 0,0:03:57.47,0:03:58.71,对白 日语,Subaru,0,0,0,,どんくらいたった?
 Dialogue: 1,0:03:57.47,0:03:58.71,对白 中文,Subaru,0,0,0,,过了多久了?
 Dialogue: 0,0:03:59.59,0:04:01.46,对白 日语,Subaru,0,0,0,,3時間か 4時間か
@@ -292,7 +293,7 @@ Dialogue: 1,0:10:45.74,0:10:48.56,对白 中文,Voice,0,0,0,,下一次 你可要
 Dialogue: 0,0:10:49.18,0:10:50.49,对白 日语,Voice,0,0,0,,英雄
 Dialogue: 1,0:10:49.18,0:10:50.49,对白 中文,Voice,0,0,0,,英雄
 Dialogue: 0,0:10:57.60,0:10:58.12,对白 日语,Emilia,0,0,0,,スバル!
-Dialogue: 1,0:10:57.60,0:10:58.12,对白 中文,Emilia,0,0,0,,菜月昴!
+Dialogue: 1,0:10:57.60,0:10:58.12,对白 中文,Emilia,0,0,0,,昴!
 Dialogue: 0,0:10:59.32,0:11:01.45,对白 日语,Emilia,0,0,0,,ねえ スバルってば 大丈夫なの?
 Dialogue: 1,0:10:59.32,0:11:01.45,对白 中文,Emilia,0,0,0,,那个 昴 你没事吧?
 Comment: 0,0:11:01.51,0:11:01.92,对白 日语,,0,0,0,,part2
