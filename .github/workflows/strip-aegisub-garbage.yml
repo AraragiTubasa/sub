@@ -1,0 +1,47 @@
+name: 清理 Aegisub 工程垃圾段
+
+# push 到 main 后，自动删除所有 .ass 文件里的 [Aegisub Project Garbage] 段
+# （Audio/Video File 等本地路径、滚动位置等隐私/无用信息），并补一个清理提交。
+#
+# 说明（取舍见 PR/讨论）：Action 跑在 push 之后，所以带本地路径的那一版仍会短暂
+# 进入 git 历史；它保证的是 main 上「当前/发布」的文件是干净的。要让隐私完全不进
+# 历史，需要每个组员本地装一次 clean filter/钩子——本仓库选择了「零本地配置」。
+
+on:
+  push:
+    branches: [main]
+    paths: ['**.ass']
+  workflow_dispatch: {}   # 也可手动触发一次全仓库清理
+
+permissions:
+  contents: write          # 需要写权限才能把清理结果推回去
+
+concurrency:               # 避免连续 push 时多个清理任务互相打架
+  group: strip-aegisub-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  strip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 清理所有 .ass 的 [Aegisub Project Garbage] 段
+        run: python tools/strip_aegisub_garbage.py
+
+      - name: 若有改动则提交并推回
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "没有发现 Aegisub 垃圾段，无需提交。"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          # 提交信息带 [skip ci]，避免这次推回又触发本工作流（防止循环）
+          git commit -m "chore: 清理 .ass 中的 [Aegisub Project Garbage] 段 [skip ci]"
+          git push
