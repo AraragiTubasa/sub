@@ -1,0 +1,72 @@
+name: 省略号用法检查（提醒）
+
+# 开 PR 时，检查本次「新增的对白行」里是否把 ...（半角三连点）当省略号用：
+#   1) 把疑似处作为行内警告 (annotation) 贴在 PR 改动行旁边；
+#   2) 在 PR 对话区发/更新一条「粘性评论」汇总（反复 push 只更新同一条，
+#      问题改完后自动删除该评论）。
+#
+# 这是「提醒」而非「拦截」：警告不会让检查变红、不会阻止合并。因为 ... 偶尔
+# 确有合法用途（英文台词、网址、特意表现等），是否修改交给作者/校对判断。
+
+on:
+  pull_request:
+    paths: ['**.ass']
+
+permissions:
+  contents: read           # 读取 diff
+  pull-requests: write     # 在 PR 对话区发/改/删评论
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 需要完整历史才能和 base 分支求 diff
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 检查新增对白里是否把 ... 当省略号
+        id: check
+        env:
+          # 评论里的定位链接需要 PR 源分支的 commit
+          PR_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          head="${{ github.event.pull_request.head.sha }}"
+          # core.quotePath=false 让中文文件名在 diff 里保持原样，定位才正确
+          git -c core.quotePath=false diff --unified=0 "$base...$head" -- '*.ass' \
+            | python tools/check_ellipsis.py --diff
+
+      - name: 发布/更新/删除 PR 提醒评论
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const marker = '<!-- ellipsis-check -->';
+            const count = parseInt('${{ steps.check.outputs.count }}' || '0', 10);
+            const { owner, repo } = context.repo;
+            const issue_number = context.issue.number;
+
+            // 找出本机器人之前发过的那条评论（带 marker）
+            const comments = await github.paginate(
+              github.rest.issues.listComments, { owner, repo, issue_number });
+            const mine = comments.find(c => c.body && c.body.includes(marker));
+
+            if (count > 0) {
+              const body = fs.readFileSync('ellipsis_comment.md', 'utf8');
+              if (mine) {
+                await github.rest.issues.updateComment(
+                  { owner, repo, comment_id: mine.id, body });
+              } else {
+                await github.rest.issues.createComment(
+                  { owner, repo, issue_number, body });
+              }
+            } else if (mine) {
+              // 已无问题：删掉旧提醒，保持对话整洁
+              await github.rest.issues.deleteComment(
+                { owner, repo, comment_id: mine.id });
+            }
