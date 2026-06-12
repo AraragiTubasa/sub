@@ -5,3 +5,19 @@
 */字体/
 *.zip
 *.rar
+
+# Python（tools/ 下脚本与 clean_ass.py 运行时产生）
+__pycache__/
+*.py[cod]
+
+# clean_ass.py 生成的清洗稿
+*_cleaned.txt
+
+# 操作系统垃圾文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器（如需随仓库共享配置可删掉对应行）
+.vscode/
+.idea/

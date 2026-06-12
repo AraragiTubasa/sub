@@ -1,0 +1,57 @@
+name: 清理 Aegisub 工程垃圾段（合并前）
+
+# 在 PR 上触发：清理本次 PR 改动到的 .ass 里的 [Aegisub Project Garbage] 段
+# （Audio/Video File 等本地路径、滚动位置等隐私/无用信息），把清理结果作为一个
+# 提交推回 PR 的源分支。等 PR 合并时，main 自然就是干净的。
+#
+# 为什么是「合并前清理」：main 开了分支保护，github-actions[bot] 无法直接推 main。
+# 改在 PR 的源分支上清理（功能分支一般不受保护），既不动分支保护、也无需任何绕过
+# 权限。用 GITHUB_TOKEN 推分支不会再触发工作流，不会死循环。
+#
+# 注：只处理「同仓库分支」开的 PR；fork 仓库的 PR 给的是只读 token，推不回去，自动
+# 跳过（你们组员一般直接在本仓库开分支，不受影响）。
+
+on:
+  pull_request:
+    paths: ['**.ass']
+
+permissions:
+  contents: write          # 把清理提交推回 PR 源分支
+
+concurrency:
+  group: strip-aegisub-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  strip:
+    runs-on: ubuntu-latest
+    # 跳过 fork 仓库开的 PR（其 token 只读，推不回 fork）
+    if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}   # 检出 PR 源分支本身（非 merge ref），以便提交并推回
+          fetch-depth: 0                                   # 取全历史，便于和 base 求 diff
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 清理本 PR 改动的 .ass 并推回源分支
+        shell: bash
+        run: |
+          base="${{ github.event.pull_request.base.sha }}"
+          # 找出本 PR 新增/修改（排除删除）的 .ass；core.quotePath=false 保留中文文件名
+          mapfile -t files < <(git -c core.quotePath=false diff --name-only --diff-filter=d "$base...HEAD" -- '*.ass')
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "本 PR 未改动 .ass，跳过。"; exit 0
+          fi
+          python tools/strip_aegisub_garbage.py "${files[@]}"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "未发现 [Aegisub Project Garbage] 段，无需提交。"; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: 清理本 PR 改动的 .ass 中的 [Aegisub Project Garbage] 段"
+          git push origin HEAD:"${{ github.event.pull_request.head.ref }}"
