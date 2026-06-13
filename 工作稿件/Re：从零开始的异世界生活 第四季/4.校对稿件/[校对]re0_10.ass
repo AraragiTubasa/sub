@@ -9,6 +9,16 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: C:/Users/zhang/Downloads/RE0_S4_10_代理.mp4
+Video File: C:/Users/zhang/Downloads/RE0_S4_10_代理.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Scroll Position: 685
+Active Line: 692
+Video Position: 29222
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Source Han Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
@@ -28,7 +38,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:02.81,0:00:04.92,对白 日语,,0,0,0,,part1
 Dialogue: 0,0:00:00.00,0:00:05.83,声明,,0,0,0,,{\b0}本字幕由 {\b1\c&H00FFFF&}TSDM字幕组{\b1\c&HFFFFFF&} {\b0}制作  仅供学习与交流使用  禁止任何形式的商业用途{\b0}\N{\b1}翻译{\b0} tyounai 饺子 R. {\b1}时轴{\b0} tyounai natsu 罗伊 {\b1}校对 {\b0}Lomenot {\b1}后期{\b0} 罗伊 {\b1}压制{\b0} 天凝 {\b1}监制{\b0} 雍
 Dialogue: 0,0:00:05.11,0:00:09.03,对白 日语,Subaru,0,0,0,,お前 なんなんだよ?
-Dialogue: 1,0:00:05.11,0:00:09.03,对白 中文,Subaru,0,0,0,,你到底是啊谁?
+Dialogue: 1,0:00:05.11,0:00:09.03,对白 中文,Subaru,0,0,0,,你到底是谁啊?
 Dialogue: 0,0:00:11.16,0:00:13.63,对白 日语,Subaru,0,0,0,,なんなんだよ!? おい!
 Dialogue: 1,0:00:11.16,0:00:13.63,对白 中文,Subaru,0,0,0,,到底是谁啊!?喂!
 Dialogue: 0,0:00:15.00,0:00:16.19,对白 日语,Subaru,0,0,0,,なかった!
@@ -61,7 +71,7 @@ Dialogue: 1,0:00:56.91,0:01:00.66,对白 中文,Subaru,0,0,0,,下次再见面的
 Dialogue: 0,0:01:01.40,0:01:02.32,对白 日语,Subaru,0,0,0,,メィリィ
 Dialogue: 1,0:01:01.40,0:01:02.32,对白 中文,Subaru,0,0,0,,梅莉
 Dialogue: 0,0:01:03.21,0:01:05.93,对白 日语,Subaru,0,0,0,,もっとも 探偵役が犯人ってのも
-Dialogue: 1,0:01:03.21,0:01:05.93,对白 中文,Subaru,0,0,0,,不过 侦探本来就是犯人 这种设定
+Dialogue: 1,0:01:03.21,0:01:05.93,对白 中文,Subaru,0,0,0,,不过 侦探就是犯人 这种设定
 Dialogue: 0,0:01:06.10,0:01:08.30,对白 日语,Subaru,0,0,0,,ミステリーのお約束だけどな
 Dialogue: 1,0:01:06.10,0:01:08.30,对白 中文,Subaru,0,0,0,,也算是推理小说的经典套路了
 Dialogue: 0,0:01:09.99,0:01:12.70,对白 日语,Subaru,0,0,0,,とにかく 今は時間を稼がなきゃ
@@ -79,7 +89,7 @@ Dialogue: 1,0:01:29.17,0:01:33.74,对白 中文,Emilia,0,0,0,,我在塔里来回
 Dialogue: 0,0:01:34.63,0:01:35.79,对白 日语,Emilia,0,0,0,,ねえ スバル
 Dialogue: 1,0:01:34.63,0:01:35.79,对白 中文,Emilia,0,0,0,,那个 昴
 Dialogue: 0,0:01:36.61,0:01:39.55,对白 日语,Emilia,0,0,0,,今の また何かの悪ふざけ?
-Dialogue: 1,0:01:36.61,0:01:39.55,对白 中文,Emilia,0,0,0,,刚刚 你是不是又在搞什么鬼？
+Dialogue: 1,0:01:36.61,0:01:39.55,对白 中文,Emilia,0,0,0,,刚刚 你是不是又在搞什么鬼?
 Dialogue: 0,0:01:39.82,0:01:42.11,对白 日语,Emilia,0,0,0,,スバル ほんとに大丈夫?
 Dialogue: 1,0:01:39.82,0:01:42.11,对白 中文,Emilia,0,0,0,,昴 你真的没事吗?
 Dialogue: 0,0:01:42.24,0:01:44.58,对白 日语,Emilia,0,0,0,,やっぱりまだ 調子が戻ってないんじゃない?
@@ -124,8 +134,8 @@ Dialogue: 0,0:02:34.21,0:02:34.96,对白 日语,Emilia,0,0,0,,えっ?
 Dialogue: 1,0:02:34.21,0:02:34.96,对白 中文,Emilia,0,0,0,,诶?
 Dialogue: 0,0:02:35.34,0:02:37.52,对白 日语,Subaru,0,0,0,,くだらねえって言ったんだよ
 Dialogue: 1,0:02:35.34,0:02:37.52,对白 中文,Subaru,0,0,0,,我说 你真无聊啊
-Dialogue: 0,0:02:37.52,0:02:39.72,对白 日语,Subaru,0,0,0,,気が早い?そのとおりだよ
-Dialogue: 1,0:02:37.52,0:02:39.72,对白 中文,Subaru,0,0,0,,太着急了?没错你太着急了
+Dialogue: 0,0:02:37.52,0:02:39.72,对白 日语,Subaru,0,0,0,,気が早いそのとおりだよ
+Dialogue: 1,0:02:37.52,0:02:39.72,对白 中文,Subaru,0,0,0,,太着急了 没错你太着急了
 Dialogue: 0,0:02:39.81,0:02:43.08,对白 日语,Subaru,0,0,0,,こんな状況で 先の展望の話なんてできるもんかよ!
 Dialogue: 1,0:02:39.81,0:02:43.08,对白 中文,Subaru,0,0,0,,现在这种情况 哪还有什么心思能展望未来!
 Dialogue: 0,0:02:43.08,0:02:43.72,对白 日语,Emilia,0,0,0,,スバル…
@@ -141,7 +151,7 @@ Dialogue: 1,0:02:49.03,0:02:52.19,对白 中文,Emilia,0,0,0,,难受的话 就�
 Dialogue: 0,0:02:52.39,0:02:54.08,对白 日语,Emilia,0,0,0,,スバルが困ってるなら
 Dialogue: 1,0:02:52.39,0:02:54.08,对白 中文,Emilia,0,0,0,,要是昴感到为难的话
 Dialogue: 0,0:02:54.08,0:02:56.48,对白 日语,Emilia,0,0,0,,私だって一緒に困ってあげる
-Dialogue: 1,0:02:54.08,0:02:56.48,对白 中文,Emilia,0,0,0,,那我就陪你一块为难
+Dialogue: 1,0:02:54.08,0:02:56.48,对白 中文,Emilia,0,0,0,,那我就陪你一起为难
 Dialogue: 0,0:02:56.48,0:02:58.24,对白 日语,Emilia,0,0,0,,でも １人で抱え込んで
 Dialogue: 1,0:02:56.48,0:02:58.24,对白 中文,Emilia,0,0,0,,所以 绝对不要一个人扛下
 Dialogue: 0,0:02:58.24,0:02:59.75,对白 日语,Emilia,0,0,0,,１人でむしゃくしゃして
@@ -431,7 +441,7 @@ Dialogue: 0,0:12:57.81,0:13:01.24,对白 日语,Subaru (Gluttony),0,0,0,,それ�
 Dialogue: 1,0:12:57.81,0:13:01.24,对白 中文,Subaru (Gluttony),0,0,0,,直接问这个是违反规则的!
 Dialogue: 0,0:13:01.38,0:13:03.98,对白 日语,Subaru,0,0,0,,結局 何ができたのか
 Dialogue: 1,0:13:01.38,0:13:03.98,对白 中文,Subaru,0,0,0,,到头来 我做到了什么
-Dialogue: 0,0:13:04.31,0:13:07.85,对白 日语,Subaru (Gluttony),0,0,0,,けど これはこれで面白い話しにな
+Dialogue: 0,0:13:04.31,0:13:07.85,对白 日语,Subaru (Gluttony),0,0,0,,けど これはこれで面白い話しになる
 Dialogue: 1,0:13:04.31,0:13:07.85,对白 中文,Subaru (Gluttony),0,0,0,,不过 这样一来事情就变得有趣了
 Dialogue: 0,0:13:05.25,0:13:07.15,对白 日语,Subaru,0,0,0,,{\an8}あの森で１人だったころから
 Dialogue: 1,0:13:05.25,0:13:07.15,对白 中文,Subaru,0,0,0,,{\an8}从在森林里独自一人的时候开始
