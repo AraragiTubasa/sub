@@ -11,16 +11,6 @@ Video Aspect Ratio: 0
 Video Zoom: 8
 YCbCr Matrix: TV.601
 
-[Aegisub Project Garbage]
-Audio File: 淡岛百景_10_代理.mp4
-Video File: 淡岛百景_10_代理.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 222
-Active Line: 228
-Video Position: 2413
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
