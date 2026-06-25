@@ -16,10 +16,10 @@ Audio File: [SubsPlease] Awajima Hyakkei - 11 (1080p) [ED2A1CE7]_neenc.mp4
 Video File: [SubsPlease] Awajima Hyakkei - 11 (1080p) [ED2A1CE7]_neenc.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Scroll Position: 15
-Active Line: 19
-Video Position: 8798
+Video Zoom Percent: 1.375000
+Scroll Position: 96
+Active Line: 99
+Video Position: 21487
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,7 +136,7 @@ Dialogue: 0,0:15:02.92,0:15:04.93,场面文本,Text,0,0,0,,{\fn@方正中雅宋_
 Dialogue: 0,0:14:56.17,0:15:00.42,场面文本,Text,0,0,0,,{=66}{\fs30\fn思源黑体 Medium\b0\c&H6E6A7C&\fax0.195879\fscx95.44\fscy80.92\frz-9.2944\frx-2.0660\fry3.3733\xbord0.00\ybord0.00\xshad0.00\yshad0.00\org(750.4,184.4)\pos(736.43,194.4)}淡岛舞台演出3
 Dialogue: 0,0:14:56.17,0:15:00.42,场面文本,Text,0,0,0,,{=73}{\fs35\fn@方正中雅宋_GBK\b0\c&H6AADB6&\fax0.827154\fscx110.83\fscy127.62\frz-26.2321\frx-4.5688\fry14.6205\bord3\blur3\xshad0.00\yshad0.00\org(750.4,184.4)\pos(1513.07,178.19)\3c&H846375&}淡岛之花，与舞台绽放
 Dialogue: 0,0:14:56.17,0:15:00.42,场面文本,Text,0,0,0,,{=78}{\fs30\fn思源黑体 Medium\b0\c&H424159&\fax-0.072031\fscx114.10\fscy90.88\frz5.8169\frx0.0356\fry-1.5214\xbord0.00\ybord0.00\xshad0.00\yshad0.00\org(750.4,184.4)\pos(271.04,521.53)}淡岛舞台演出2
-Dialogue: 0,0:14:56.17,0:15:00.42,场面文本,Text,0,0,0,,{=80}{\blur0.8\fsp5\fs30\fn@方正正准黑_GBK\b1\c&HB3BCB9&\fax-0.089581\fscx91.73\fscy90.88\frz5.8170\frx0.0363\fry-1.5214\xbord0.00\ybord0.00\xshad0.00\yshad0.00\org(750.4,184.4)\pos(261.53,623.29)}淡岛百年 —歌剧团的进程—
+Dialogue: 0,0:14:56.17,0:15:00.42,场面文本,Text,0,0,0,,{=80}{\blur0.8\fsp5\fs30\fn@方正雅士黑 简\b1\c&HB3BCB9&\fax-0.089582\fscx91.73\fscy90.88\frz5.8170\frx0.0361\fry-1.5214\xbord0.00\ybord0.00\xshad0.00\yshad0.00\org(750.4,184.4)\pos(266.68,623.62)}淡岛百年 —歌剧团的进程—
 Dialogue: 1,0:21:47.08,0:21:51.58,淡岛_ED_中文,,0,0,0,fx,{\an2\pos(960, 1050)}{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}面{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}朝{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}镜{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}子{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}拭{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}去{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}泪{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}水
 Dialogue: 0,0:21:51.96,0:21:57.96,淡岛_ED_中文,,0,0,0,fx,{\an2\pos(960, 1050)}{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}在{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}曾{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}经{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}追{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}逐{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}着{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}梦{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}想{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}的{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}那{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}个{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}地{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}方
 Dialogue: 0,0:21:59.88,0:22:06.51,淡岛_ED_中文,,0,0,0,fx,{\an2\pos(960, 1050)}{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}无{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}法{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}拥{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}抱{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}自{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}己{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}的{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)} {\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}悔{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}恨{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}与{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}不{\fad(500,500)\1c&HFFFFFF&\3c&H66BBFF&\3a&H40&\bord3\blur4\fsp0\t(\fsp2)}甘
