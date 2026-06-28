@@ -16,10 +16,10 @@ Audio File: ../../../Downloads/淡岛百景_01_代理.mp4
 Video File: ../../../Downloads/淡岛百景_01_代理.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 467
-Active Line: 473
-Video Position: 11222
+Video Zoom Percent: 0.500000
+Scroll Position: 580
+Active Line: 592
+Video Position: 15838
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -602,7 +602,7 @@ Comment: 1,0:10:11.37,0:10:14.59,淡岛_对白 中文,Kinue,0,0,0,,实际上也�
 Dialogue: 0,0:10:11.37,0:10:14.59,淡岛_对白 日语,Kinue,0,0,0,,実際やめてく子もいるわよ 何人かわ
 Dialogue: 1,0:10:15.89,0:10:16.82,淡岛_对白 中文,Wakana,0,0,0,,嗯
 Dialogue: 0,0:10:15.89,0:10:16.82,淡岛_对白 日语,Wakana,0,0,0,,はい
-Dialogue: 1,0:10:17.65,0:10:18.53,淡岛_对白 中文,Kinue,0,0,0,,\h你觉得呢?
+Dialogue: 1,0:10:17.65,0:10:18.53,淡岛_对白 中文,Kinue,0,0,0,,你觉得呢?
 Comment: 1,0:10:17.65,0:10:18.53,淡岛_对白 中文,Kinue,0,0,0,,你怎么看?@@好像都行
 Dialogue: 0,0:10:17.65,0:10:18.53,淡岛_对白 日语,Kinue,0,0,0,,どう思う?
 Dialogue: 1,0:10:19.12,0:10:21.79,淡岛_对白 中文,Wakana,0,0,0,,真…真是个严格的世界呢
