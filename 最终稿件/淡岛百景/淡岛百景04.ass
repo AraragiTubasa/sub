@@ -13,14 +13,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Ataku
-Audio File: 淡岛百景_04_代理.mp4
-Video File: 淡岛百景_04_代理.mp4
+Audio File: ../../../Downloads/淡岛百景_04_代理.mp4
+Video File: ../../../Downloads/淡岛百景_04_代理.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 222
-Active Line: 229
-Video Position: 20879
+Video Zoom Percent: 0.500000
+Scroll Position: 614
+Active Line: 625
+Video Position: 2522
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,198 +60,198 @@ Comment: 0,0:07:09.57,0:07:14.20,场面文本,Text,0,0,0,,{\pos(1145,295)\1c&H68
 Dialogue: 0,0:07:09.57,0:07:14.20,场面文本,Text,0,0,0,,{\pos(1145,345)\shad0\3c&H5B4B52&}诉说对淡岛的感谢之情
 Dialogue: 0,0:07:09.57,0:07:14.20,场面文本,Text,0,0,0,,{\fs80\pos(1000,790)\fry5\frz6\shad0\bord3\3c&HD9D5D3&\1c&H5B4B52&}人气巨星充满{\1c&H6F53DF&}决心{\1c&H5B4B52&}的引退记者会
 Dialogue: 2,0:07:46.44,0:07:46.48,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,331.33)}滑稽社
-Dialogue: 2,0:07:46.48,0:07:46.52,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,333.85)}滑稽社
-Dialogue: 2,0:07:46.52,0:07:46.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,336.69)}滑稽社
-Dialogue: 2,0:07:46.57,0:07:46.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,339.85)}滑稽社
-Dialogue: 2,0:07:46.61,0:07:46.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,343.14)}滑稽社
-Dialogue: 2,0:07:46.65,0:07:46.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,346.76)}滑稽社
-Dialogue: 2,0:07:46.69,0:07:46.73,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,350.47)}滑稽社
-Dialogue: 2,0:07:46.73,0:07:46.77,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,354.46)}滑稽社
-Dialogue: 2,0:07:46.77,0:07:46.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,358.73)}滑稽社
-Dialogue: 2,0:07:46.82,0:07:46.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,363.2)}滑稽社
-Dialogue: 2,0:07:46.86,0:07:46.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,367.77)}滑稽社
-Dialogue: 2,0:07:46.90,0:07:46.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,372.72)}滑稽社
-Dialogue: 2,0:07:46.94,0:07:46.98,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,377.76)}滑稽社
-Dialogue: 2,0:07:46.98,0:07:47.02,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,382.99)}滑稽社
-Dialogue: 2,0:07:47.02,0:07:47.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,388.5)}滑稽社
-Dialogue: 2,0:07:47.07,0:07:47.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,394.07)}滑稽社
-Dialogue: 2,0:07:47.11,0:07:47.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,399.97)}滑稽社
-Dialogue: 2,0:07:47.15,0:07:47.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,405.95)}滑稽社
-Dialogue: 2,0:07:47.19,0:07:47.23,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,412.21)}滑稽社
-Dialogue: 2,0:07:47.23,0:07:47.27,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,418.69)}滑稽社
-Dialogue: 2,0:07:47.27,0:07:47.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,425.18)}滑稽社
-Dialogue: 2,0:07:47.32,0:07:47.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,431.95)}滑稽社
-Dialogue: 2,0:07:47.36,0:07:47.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,438.93)}滑稽社
-Dialogue: 2,0:07:47.40,0:07:47.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,445.94)}滑稽社
-Dialogue: 2,0:07:47.44,0:07:47.48,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,453.23)}滑稽社
-Dialogue: 2,0:07:47.48,0:07:47.52,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,460.69)}滑稽社
-Dialogue: 2,0:07:47.52,0:07:47.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,468.17)}滑稽社
-Dialogue: 2,0:07:47.57,0:07:47.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,476.01)}滑稽社
-Dialogue: 2,0:07:47.61,0:07:47.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,483.84)}滑稽社
-Dialogue: 2,0:07:47.65,0:07:47.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,491.88)}滑稽社
-Dialogue: 2,0:07:47.69,0:07:47.73,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,500.14)}滑稽社
-Dialogue: 2,0:07:47.73,0:07:47.77,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,508.42)}滑稽社
-Dialogue: 2,0:07:47.77,0:07:47.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,516.81)}滑稽社
-Dialogue: 2,0:07:47.82,0:07:47.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,525.41)}滑稽社
-Dialogue: 2,0:07:47.86,0:07:47.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,534.14)}滑稽社
-Dialogue: 2,0:07:47.90,0:07:47.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,542.94)}滑稽社
-Dialogue: 2,0:07:47.94,0:07:47.98,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,551.99)}滑稽社
-Dialogue: 2,0:07:47.98,0:07:48.03,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,561.03)}滑稽社
-Dialogue: 2,0:07:48.03,0:07:48.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,570.22)}滑稽社
-Dialogue: 2,0:07:48.07,0:07:48.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,579.57)}滑稽社
-Dialogue: 2,0:07:48.11,0:07:48.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,589.02)}滑稽社
-Dialogue: 2,0:07:48.15,0:07:48.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,598.51)}滑稽社
-Dialogue: 2,0:07:48.19,0:07:48.23,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,608.2)}滑稽社
-Dialogue: 2,0:07:48.23,0:07:48.28,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,617.94)}滑稽社
-Dialogue: 2,0:07:48.28,0:07:48.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,627.69)}滑稽社
-Dialogue: 2,0:07:48.32,0:07:48.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,637.68)}滑稽社
-Dialogue: 2,0:07:48.36,0:07:48.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,647.68)}滑稽社
-Dialogue: 2,0:07:48.40,0:07:48.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,657.72)}滑稽社
-Dialogue: 2,0:07:48.44,0:07:48.48,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,667.97)}滑稽社
-Dialogue: 2,0:07:48.48,0:07:48.53,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,678.21)}滑稽社
-Dialogue: 2,0:07:48.53,0:07:48.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,688.61)}滑稽社
-Dialogue: 2,0:07:48.57,0:07:48.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,698.97)}滑稽社
-Dialogue: 2,0:07:48.61,0:07:48.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,709.48)}滑稽社
-Dialogue: 2,0:07:48.65,0:07:48.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,720.09)}滑稽社
-Dialogue: 2,0:07:48.69,0:07:48.73,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,730.72)}滑稽社
-Dialogue: 2,0:07:48.73,0:07:48.78,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,741.4)}滑稽社
-Dialogue: 2,0:07:48.78,0:07:48.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,752.12)}滑稽社
-Dialogue: 2,0:07:48.82,0:07:48.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,762.91)}滑稽社
-Dialogue: 2,0:07:48.86,0:07:48.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,773.69)}滑稽社
-Dialogue: 2,0:07:48.90,0:07:48.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,784.6)}滑稽社
-Dialogue: 2,0:07:48.94,0:07:48.98,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,795.52)}滑稽社
-Dialogue: 2,0:07:48.98,0:07:49.03,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,806.44)}滑稽社
-Dialogue: 2,0:07:49.03,0:07:49.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,817.44)}滑稽社
-Dialogue: 2,0:07:49.07,0:07:49.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,828.46)}滑稽社
-Dialogue: 2,0:07:49.11,0:07:49.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,839.47)}滑稽社
-Dialogue: 2,0:07:49.15,0:07:49.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,850.6)}滑稽社
-Dialogue: 2,0:07:49.19,0:07:49.23,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,861.75)}滑稽社
-Dialogue: 2,0:07:49.23,0:07:49.28,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,872.76)}滑稽社
-Dialogue: 2,0:07:49.28,0:07:49.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,883.94)}滑稽社
-Dialogue: 2,0:07:49.32,0:07:49.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,895.15)}滑稽社
-Dialogue: 2,0:07:49.36,0:07:49.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,906.25)}滑稽社
-Dialogue: 2,0:07:49.40,0:07:49.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,917.43)}滑稽社
-Dialogue: 2,0:07:49.44,0:07:49.49,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,928.57)}滑稽社
-Dialogue: 2,0:07:49.49,0:07:49.53,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,939.74)}滑稽社
-Dialogue: 2,0:07:49.53,0:07:49.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,950.89)}滑稽社
-Dialogue: 2,0:07:49.57,0:07:49.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,962.05)}滑稽社
-Dialogue: 2,0:07:49.61,0:07:49.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,973.2)}滑稽社
-Dialogue: 2,0:07:49.65,0:07:49.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,984.25)}滑稽社
-Dialogue: 2,0:07:49.69,0:07:49.74,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,995.37)}滑稽社
-Dialogue: 2,0:07:49.74,0:07:49.78,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1006.47)}滑稽社
-Dialogue: 2,0:07:49.78,0:07:49.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1017.54)}滑稽社
-Dialogue: 2,0:07:49.82,0:07:49.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1028.54)}滑稽社
-Dialogue: 2,0:07:49.86,0:07:49.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1039.52)}滑稽社
-Dialogue: 2,0:07:49.90,0:07:49.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1050.51)}滑稽社
-Dialogue: 2,0:07:49.94,0:07:49.99,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1061.34)}滑稽社
-Dialogue: 2,0:07:49.99,0:07:50.03,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1072.25)}滑稽社
-Dialogue: 2,0:07:50.03,0:07:50.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1083.12)}滑稽社
-Dialogue: 2,0:07:50.07,0:07:50.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1093.87)}滑稽社
-Dialogue: 2,0:07:50.11,0:07:50.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1104.55)}滑稽社
-Dialogue: 2,0:07:50.15,0:07:50.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1115.26)}滑稽社
-Dialogue: 2,0:07:50.19,0:07:50.24,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1125.86)}滑稽社
-Dialogue: 2,0:07:50.24,0:07:50.28,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1136.51)}滑稽社
-Dialogue: 2,0:07:50.28,0:07:50.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1147.01)}滑稽社
-Dialogue: 2,0:07:50.32,0:07:50.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1157.28)}滑稽社
-Dialogue: 2,0:07:50.36,0:07:50.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1167.75)}滑稽社
-Dialogue: 2,0:07:50.40,0:07:50.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1178.04)}滑稽社
 Dialogue: 0,0:07:46.44,0:07:46.48,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,472.33)}THE 小剧场
-Dialogue: 0,0:07:46.48,0:07:46.52,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,474.85)}THE 小剧场
-Dialogue: 0,0:07:46.52,0:07:46.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,477.69)}THE 小剧场
-Dialogue: 0,0:07:46.57,0:07:46.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,480.85)}THE 小剧场
-Dialogue: 0,0:07:46.61,0:07:46.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,484.14)}THE 小剧场
-Dialogue: 0,0:07:46.65,0:07:46.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,487.76)}THE 小剧场
-Dialogue: 0,0:07:46.69,0:07:46.73,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,491.47)}THE 小剧场
-Dialogue: 0,0:07:46.73,0:07:46.77,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,495.46)}THE 小剧场
-Dialogue: 0,0:07:46.77,0:07:46.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,499.73)}THE 小剧场
-Dialogue: 0,0:07:46.82,0:07:46.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,504.2)}THE 小剧场
-Dialogue: 0,0:07:46.86,0:07:46.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,508.77)}THE 小剧场
-Dialogue: 0,0:07:46.90,0:07:46.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,513.72)}THE 小剧场
-Dialogue: 0,0:07:46.94,0:07:46.98,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,518.76)}THE 小剧场
-Dialogue: 0,0:07:46.98,0:07:47.02,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,523.99)}THE 小剧场
-Dialogue: 0,0:07:47.02,0:07:47.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,529.5)}THE 小剧场
-Dialogue: 0,0:07:47.07,0:07:47.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,535.07)}THE 小剧场
-Dialogue: 0,0:07:47.11,0:07:47.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,540.97)}THE 小剧场
-Dialogue: 0,0:07:47.15,0:07:47.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,546.95)}THE 小剧场
-Dialogue: 0,0:07:47.19,0:07:47.23,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,553.21)}THE 小剧场
-Dialogue: 0,0:07:47.23,0:07:47.27,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,559.69)}THE 小剧场
-Dialogue: 0,0:07:47.27,0:07:47.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,566.18)}THE 小剧场
-Dialogue: 0,0:07:47.32,0:07:47.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,572.95)}THE 小剧场
-Dialogue: 0,0:07:47.36,0:07:47.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,579.93)}THE 小剧场
-Dialogue: 0,0:07:47.40,0:07:47.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,586.94)}THE 小剧场
-Dialogue: 0,0:07:47.44,0:07:47.48,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,594.23)}THE 小剧场
-Dialogue: 0,0:07:47.48,0:07:47.52,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,601.69)}THE 小剧场
-Dialogue: 0,0:07:47.52,0:07:47.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,609.17)}THE 小剧场
-Dialogue: 0,0:07:47.57,0:07:47.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,617.01)}THE 小剧场
-Dialogue: 0,0:07:47.61,0:07:47.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,624.84)}THE 小剧场
-Dialogue: 0,0:07:47.65,0:07:47.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,632.88)}THE 小剧场
-Dialogue: 0,0:07:47.69,0:07:47.73,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,641.14)}THE 小剧场
-Dialogue: 0,0:07:47.73,0:07:47.77,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,649.42)}THE 小剧场
-Dialogue: 0,0:07:47.77,0:07:47.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,657.81)}THE 小剧场
-Dialogue: 0,0:07:47.82,0:07:47.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,666.41)}THE 小剧场
-Dialogue: 0,0:07:47.86,0:07:47.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,675.14)}THE 小剧场
-Dialogue: 0,0:07:47.90,0:07:47.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,683.94)}THE 小剧场
-Dialogue: 0,0:07:47.94,0:07:47.98,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,692.99)}THE 小剧场
-Dialogue: 0,0:07:47.98,0:07:48.03,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,702.03)}THE 小剧场
-Dialogue: 0,0:07:48.03,0:07:48.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,711.22)}THE 小剧场
-Dialogue: 0,0:07:48.07,0:07:48.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,720.57)}THE 小剧场
-Dialogue: 0,0:07:48.11,0:07:48.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,730.02)}THE 小剧场
-Dialogue: 0,0:07:48.15,0:07:48.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,739.51)}THE 小剧场
-Dialogue: 0,0:07:48.19,0:07:48.23,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,749.2)}THE 小剧场
-Dialogue: 0,0:07:48.23,0:07:48.28,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,758.94)}THE 小剧场
-Dialogue: 0,0:07:48.28,0:07:48.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,768.69)}THE 小剧场
-Dialogue: 0,0:07:48.32,0:07:48.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,778.68)}THE 小剧场
-Dialogue: 0,0:07:48.36,0:07:48.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,788.68)}THE 小剧场
-Dialogue: 0,0:07:48.40,0:07:48.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,798.72)}THE 小剧场
-Dialogue: 0,0:07:48.44,0:07:48.48,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,808.97)}THE 小剧场
-Dialogue: 0,0:07:48.48,0:07:48.53,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,819.21)}THE 小剧场
-Dialogue: 0,0:07:48.53,0:07:48.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,829.61)}THE 小剧场
-Dialogue: 0,0:07:48.57,0:07:48.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,839.97)}THE 小剧场
-Dialogue: 0,0:07:48.61,0:07:48.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,850.48)}THE 小剧场
-Dialogue: 0,0:07:48.65,0:07:48.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,861.09)}THE 小剧场
-Dialogue: 0,0:07:48.69,0:07:48.73,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,871.72)}THE 小剧场
-Dialogue: 0,0:07:48.73,0:07:48.78,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,882.4)}THE 小剧场
-Dialogue: 0,0:07:48.78,0:07:48.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,893.12)}THE 小剧场
-Dialogue: 0,0:07:48.82,0:07:48.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,903.91)}THE 小剧场
-Dialogue: 0,0:07:48.86,0:07:48.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,914.69)}THE 小剧场
-Dialogue: 0,0:07:48.90,0:07:48.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,925.6)}THE 小剧场
-Dialogue: 0,0:07:48.94,0:07:48.98,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,936.52)}THE 小剧场
-Dialogue: 0,0:07:48.98,0:07:49.03,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,947.44)}THE 小剧场
-Dialogue: 0,0:07:49.03,0:07:49.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,958.44)}THE 小剧场
-Dialogue: 0,0:07:49.07,0:07:49.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,969.46)}THE 小剧场
-Dialogue: 0,0:07:49.11,0:07:49.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,980.47)}THE 小剧场
-Dialogue: 0,0:07:49.15,0:07:49.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,991.6)}THE 小剧场
-Dialogue: 0,0:07:49.19,0:07:49.23,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1002.75)}THE 小剧场
-Dialogue: 0,0:07:49.23,0:07:49.28,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1013.76)}THE 小剧场
-Dialogue: 0,0:07:49.28,0:07:49.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1024.94)}THE 小剧场
-Dialogue: 0,0:07:49.32,0:07:49.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1036.15)}THE 小剧场
-Dialogue: 0,0:07:49.36,0:07:49.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1047.25)}THE 小剧场
-Dialogue: 0,0:07:49.40,0:07:49.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1058.43)}THE 小剧场
-Dialogue: 0,0:07:49.44,0:07:49.49,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1069.57)}THE 小剧场
-Dialogue: 0,0:07:49.49,0:07:49.53,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1080.74)}THE 小剧场
-Dialogue: 0,0:07:49.53,0:07:49.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1091.89)}THE 小剧场
-Dialogue: 0,0:07:49.57,0:07:49.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1103.05)}THE 小剧场
-Dialogue: 0,0:07:49.61,0:07:49.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1114.2)}THE 小剧场
-Dialogue: 0,0:07:49.65,0:07:49.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1125.25)}THE 小剧场
-Dialogue: 0,0:07:49.69,0:07:49.74,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1136.37)}THE 小剧场
-Dialogue: 0,0:07:49.74,0:07:49.78,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1147.47)}THE 小剧场
-Dialogue: 0,0:07:49.78,0:07:49.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1158.54)}THE 小剧场
-Dialogue: 0,0:07:49.82,0:07:49.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1169.54)}THE 小剧场
-Dialogue: 0,0:07:49.86,0:07:49.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1180.52)}THE 小剧场
-Dialogue: 0,0:07:49.90,0:07:49.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1191.51)}THE 小剧场
-Dialogue: 0,0:07:49.94,0:07:49.99,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1202.34)}THE 小剧场
-Dialogue: 0,0:07:49.99,0:07:50.03,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1213.25)}THE 小剧场
-Dialogue: 0,0:07:50.03,0:07:50.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1224.12)}THE 小剧场
-Dialogue: 0,0:07:50.07,0:07:50.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1234.87)}THE 小剧场
-Dialogue: 0,0:07:50.11,0:07:50.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1245.55)}THE 小剧场
-Dialogue: 0,0:07:50.15,0:07:50.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1256.27)}THE 小剧场
-Dialogue: 0,0:07:50.19,0:07:50.24,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1266.86)}THE 小剧场
-Dialogue: 0,0:07:50.24,0:07:50.28,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1277.51)}THE 小剧场
-Dialogue: 0,0:07:50.28,0:07:50.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1288.01)}THE 小剧场
-Dialogue: 0,0:07:50.32,0:07:50.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1298.28)}THE 小剧场
-Dialogue: 0,0:07:50.36,0:07:50.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1308.75)}THE 小剧场
-Dialogue: 0,0:07:50.40,0:07:50.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1319.04)}THE 小剧场
 Comment: 2,0:07:46.44,0:07:48.53,场面文本,Text,0,0,0,,{\pos(1100,120)\fs100\frz5\3c&H0000FF&\1c&HB9EEF6&\fsp200}滑稽巷{字体后期的时候再说吧}@取自德云社
+Dialogue: 2,0:07:46.48,0:07:46.52,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,333.85)}滑稽社
+Dialogue: 0,0:07:46.48,0:07:46.52,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,474.85)}THE 小剧场
+Dialogue: 2,0:07:46.52,0:07:46.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,336.69)}滑稽社
+Dialogue: 0,0:07:46.52,0:07:46.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,477.69)}THE 小剧场
+Dialogue: 2,0:07:46.57,0:07:46.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,339.85)}滑稽社
+Dialogue: 0,0:07:46.57,0:07:46.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,480.85)}THE 小剧场
+Dialogue: 2,0:07:46.61,0:07:46.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,343.14)}滑稽社
+Dialogue: 0,0:07:46.61,0:07:46.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,484.14)}THE 小剧场
+Dialogue: 2,0:07:46.65,0:07:46.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,346.76)}滑稽社
+Dialogue: 0,0:07:46.65,0:07:46.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,487.76)}THE 小剧场
+Dialogue: 2,0:07:46.69,0:07:46.73,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,350.47)}滑稽社
+Dialogue: 0,0:07:46.69,0:07:46.73,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,491.47)}THE 小剧场
+Dialogue: 2,0:07:46.73,0:07:46.77,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,354.46)}滑稽社
+Dialogue: 0,0:07:46.73,0:07:46.77,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,495.46)}THE 小剧场
+Dialogue: 2,0:07:46.77,0:07:46.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,358.73)}滑稽社
+Dialogue: 0,0:07:46.77,0:07:46.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,499.73)}THE 小剧场
+Dialogue: 2,0:07:46.82,0:07:46.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,363.2)}滑稽社
+Dialogue: 0,0:07:46.82,0:07:46.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,504.2)}THE 小剧场
+Dialogue: 2,0:07:46.86,0:07:46.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,367.77)}滑稽社
+Dialogue: 0,0:07:46.86,0:07:46.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,508.77)}THE 小剧场
+Dialogue: 2,0:07:46.90,0:07:46.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,372.72)}滑稽社
+Dialogue: 0,0:07:46.90,0:07:46.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,513.72)}THE 小剧场
+Dialogue: 2,0:07:46.94,0:07:46.98,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,377.76)}滑稽社
+Dialogue: 0,0:07:46.94,0:07:46.98,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,518.76)}THE 小剧场
+Dialogue: 2,0:07:46.98,0:07:47.02,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,382.99)}滑稽社
+Dialogue: 0,0:07:46.98,0:07:47.02,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,523.99)}THE 小剧场
+Dialogue: 2,0:07:47.02,0:07:47.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,388.5)}滑稽社
+Dialogue: 0,0:07:47.02,0:07:47.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,529.5)}THE 小剧场
+Dialogue: 2,0:07:47.07,0:07:47.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,394.07)}滑稽社
+Dialogue: 0,0:07:47.07,0:07:47.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,535.07)}THE 小剧场
+Dialogue: 2,0:07:47.11,0:07:47.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,399.97)}滑稽社
+Dialogue: 0,0:07:47.11,0:07:47.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,540.97)}THE 小剧场
+Dialogue: 2,0:07:47.15,0:07:47.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,405.95)}滑稽社
+Dialogue: 0,0:07:47.15,0:07:47.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,546.95)}THE 小剧场
+Dialogue: 2,0:07:47.19,0:07:47.23,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,412.21)}滑稽社
+Dialogue: 0,0:07:47.19,0:07:47.23,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,553.21)}THE 小剧场
+Dialogue: 2,0:07:47.23,0:07:47.27,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,418.69)}滑稽社
+Dialogue: 0,0:07:47.23,0:07:47.27,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,559.69)}THE 小剧场
+Dialogue: 2,0:07:47.27,0:07:47.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,425.18)}滑稽社
+Dialogue: 0,0:07:47.27,0:07:47.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,566.18)}THE 小剧场
+Dialogue: 2,0:07:47.32,0:07:47.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,431.95)}滑稽社
+Dialogue: 0,0:07:47.32,0:07:47.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,572.95)}THE 小剧场
+Dialogue: 2,0:07:47.36,0:07:47.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,438.93)}滑稽社
+Dialogue: 0,0:07:47.36,0:07:47.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,579.93)}THE 小剧场
+Dialogue: 2,0:07:47.40,0:07:47.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,445.94)}滑稽社
+Dialogue: 0,0:07:47.40,0:07:47.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,586.94)}THE 小剧场
+Dialogue: 2,0:07:47.44,0:07:47.48,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,453.23)}滑稽社
+Dialogue: 0,0:07:47.44,0:07:47.48,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,594.23)}THE 小剧场
+Dialogue: 2,0:07:47.48,0:07:47.52,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,460.69)}滑稽社
+Dialogue: 0,0:07:47.48,0:07:47.52,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,601.69)}THE 小剧场
+Dialogue: 2,0:07:47.52,0:07:47.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,468.17)}滑稽社
+Dialogue: 0,0:07:47.52,0:07:47.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,609.17)}THE 小剧场
+Dialogue: 2,0:07:47.57,0:07:47.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,476.01)}滑稽社
+Dialogue: 0,0:07:47.57,0:07:47.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,617.01)}THE 小剧场
+Dialogue: 2,0:07:47.61,0:07:47.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,483.84)}滑稽社
+Dialogue: 0,0:07:47.61,0:07:47.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,624.84)}THE 小剧场
+Dialogue: 2,0:07:47.65,0:07:47.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,491.88)}滑稽社
+Dialogue: 0,0:07:47.65,0:07:47.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,632.88)}THE 小剧场
+Dialogue: 2,0:07:47.69,0:07:47.73,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,500.14)}滑稽社
+Dialogue: 0,0:07:47.69,0:07:47.73,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,641.14)}THE 小剧场
+Dialogue: 2,0:07:47.73,0:07:47.77,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,508.42)}滑稽社
+Dialogue: 0,0:07:47.73,0:07:47.77,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,649.42)}THE 小剧场
+Dialogue: 2,0:07:47.77,0:07:47.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,516.81)}滑稽社
+Dialogue: 0,0:07:47.77,0:07:47.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,657.81)}THE 小剧场
+Dialogue: 2,0:07:47.82,0:07:47.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,525.41)}滑稽社
+Dialogue: 0,0:07:47.82,0:07:47.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,666.41)}THE 小剧场
+Dialogue: 2,0:07:47.86,0:07:47.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,534.14)}滑稽社
+Dialogue: 0,0:07:47.86,0:07:47.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,675.14)}THE 小剧场
+Dialogue: 2,0:07:47.90,0:07:47.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,542.94)}滑稽社
+Dialogue: 0,0:07:47.90,0:07:47.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,683.94)}THE 小剧场
+Dialogue: 2,0:07:47.94,0:07:47.98,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,551.99)}滑稽社
+Dialogue: 0,0:07:47.94,0:07:47.98,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,692.99)}THE 小剧场
+Dialogue: 2,0:07:47.98,0:07:48.03,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,561.03)}滑稽社
+Dialogue: 0,0:07:47.98,0:07:48.03,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,702.03)}THE 小剧场
+Dialogue: 2,0:07:48.03,0:07:48.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,570.22)}滑稽社
+Dialogue: 0,0:07:48.03,0:07:48.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,711.22)}THE 小剧场
+Dialogue: 2,0:07:48.07,0:07:48.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,579.57)}滑稽社
+Dialogue: 0,0:07:48.07,0:07:48.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,720.57)}THE 小剧场
+Dialogue: 2,0:07:48.11,0:07:48.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,589.02)}滑稽社
+Dialogue: 0,0:07:48.11,0:07:48.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,730.02)}THE 小剧场
+Dialogue: 2,0:07:48.15,0:07:48.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,598.51)}滑稽社
+Dialogue: 0,0:07:48.15,0:07:48.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,739.51)}THE 小剧场
+Dialogue: 2,0:07:48.19,0:07:48.23,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,608.2)}滑稽社
+Dialogue: 0,0:07:48.19,0:07:48.23,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,749.2)}THE 小剧场
+Dialogue: 2,0:07:48.23,0:07:48.28,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,617.94)}滑稽社
+Dialogue: 0,0:07:48.23,0:07:48.28,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,758.94)}THE 小剧场
+Dialogue: 2,0:07:48.28,0:07:48.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,627.69)}滑稽社
+Dialogue: 0,0:07:48.28,0:07:48.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,768.69)}THE 小剧场
+Dialogue: 2,0:07:48.32,0:07:48.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,637.68)}滑稽社
+Dialogue: 0,0:07:48.32,0:07:48.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,778.68)}THE 小剧场
+Dialogue: 2,0:07:48.36,0:07:48.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,647.68)}滑稽社
+Dialogue: 0,0:07:48.36,0:07:48.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,788.68)}THE 小剧场
+Dialogue: 2,0:07:48.40,0:07:48.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,657.72)}滑稽社
+Dialogue: 0,0:07:48.40,0:07:48.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,798.72)}THE 小剧场
+Dialogue: 2,0:07:48.44,0:07:48.48,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,667.97)}滑稽社
+Dialogue: 0,0:07:48.44,0:07:48.48,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,808.97)}THE 小剧场
+Dialogue: 2,0:07:48.48,0:07:48.53,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,678.21)}滑稽社
+Dialogue: 0,0:07:48.48,0:07:48.53,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,819.21)}THE 小剧场
+Dialogue: 2,0:07:48.53,0:07:48.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,688.61)}滑稽社
+Dialogue: 0,0:07:48.53,0:07:48.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,829.61)}THE 小剧场
+Dialogue: 2,0:07:48.57,0:07:48.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,698.97)}滑稽社
+Dialogue: 0,0:07:48.57,0:07:48.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,839.97)}THE 小剧场
+Dialogue: 2,0:07:48.61,0:07:48.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,709.48)}滑稽社
+Dialogue: 0,0:07:48.61,0:07:48.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,850.48)}THE 小剧场
+Dialogue: 2,0:07:48.65,0:07:48.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,720.09)}滑稽社
+Dialogue: 0,0:07:48.65,0:07:48.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,861.09)}THE 小剧场
+Dialogue: 2,0:07:48.69,0:07:48.73,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,730.72)}滑稽社
+Dialogue: 0,0:07:48.69,0:07:48.73,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,871.72)}THE 小剧场
+Dialogue: 2,0:07:48.73,0:07:48.78,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,741.4)}滑稽社
+Dialogue: 0,0:07:48.73,0:07:48.78,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,882.4)}THE 小剧场
+Dialogue: 2,0:07:48.78,0:07:48.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,752.12)}滑稽社
+Dialogue: 0,0:07:48.78,0:07:48.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,893.12)}THE 小剧场
+Dialogue: 2,0:07:48.82,0:07:48.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,762.91)}滑稽社
+Dialogue: 0,0:07:48.82,0:07:48.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,903.91)}THE 小剧场
+Dialogue: 2,0:07:48.86,0:07:48.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,773.69)}滑稽社
+Dialogue: 0,0:07:48.86,0:07:48.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,914.69)}THE 小剧场
+Dialogue: 2,0:07:48.90,0:07:48.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,784.6)}滑稽社
+Dialogue: 0,0:07:48.90,0:07:48.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,925.6)}THE 小剧场
+Dialogue: 2,0:07:48.94,0:07:48.98,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,795.52)}滑稽社
+Dialogue: 0,0:07:48.94,0:07:48.98,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,936.52)}THE 小剧场
+Dialogue: 2,0:07:48.98,0:07:49.03,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,806.44)}滑稽社
+Dialogue: 0,0:07:48.98,0:07:49.03,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,947.44)}THE 小剧场
+Dialogue: 2,0:07:49.03,0:07:49.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,817.44)}滑稽社
+Dialogue: 0,0:07:49.03,0:07:49.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,958.44)}THE 小剧场
+Dialogue: 2,0:07:49.07,0:07:49.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,828.46)}滑稽社
+Dialogue: 0,0:07:49.07,0:07:49.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,969.46)}THE 小剧场
+Dialogue: 2,0:07:49.11,0:07:49.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,839.47)}滑稽社
+Dialogue: 0,0:07:49.11,0:07:49.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,980.47)}THE 小剧场
+Dialogue: 2,0:07:49.15,0:07:49.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,850.6)}滑稽社
+Dialogue: 0,0:07:49.15,0:07:49.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,991.6)}THE 小剧场
+Dialogue: 2,0:07:49.19,0:07:49.23,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,861.75)}滑稽社
+Dialogue: 0,0:07:49.19,0:07:49.23,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1002.75)}THE 小剧场
+Dialogue: 2,0:07:49.23,0:07:49.28,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,872.76)}滑稽社
+Dialogue: 0,0:07:49.23,0:07:49.28,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1013.76)}THE 小剧场
+Dialogue: 2,0:07:49.28,0:07:49.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,883.94)}滑稽社
+Dialogue: 0,0:07:49.28,0:07:49.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1024.94)}THE 小剧场
+Dialogue: 2,0:07:49.32,0:07:49.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,895.15)}滑稽社
+Dialogue: 0,0:07:49.32,0:07:49.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1036.15)}THE 小剧场
+Dialogue: 2,0:07:49.36,0:07:49.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,906.25)}滑稽社
+Dialogue: 0,0:07:49.36,0:07:49.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1047.25)}THE 小剧场
+Dialogue: 2,0:07:49.40,0:07:49.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,917.43)}滑稽社
+Dialogue: 0,0:07:49.40,0:07:49.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1058.43)}THE 小剧场
+Dialogue: 2,0:07:49.44,0:07:49.49,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,928.57)}滑稽社
+Dialogue: 0,0:07:49.44,0:07:49.49,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1069.57)}THE 小剧场
+Dialogue: 2,0:07:49.49,0:07:49.53,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,939.74)}滑稽社
+Dialogue: 0,0:07:49.49,0:07:49.53,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1080.74)}THE 小剧场
+Dialogue: 2,0:07:49.53,0:07:49.57,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,950.89)}滑稽社
+Dialogue: 0,0:07:49.53,0:07:49.57,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1091.89)}THE 小剧场
+Dialogue: 2,0:07:49.57,0:07:49.61,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,962.05)}滑稽社
+Dialogue: 0,0:07:49.57,0:07:49.61,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1103.05)}THE 小剧场
+Dialogue: 2,0:07:49.61,0:07:49.65,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,973.2)}滑稽社
+Dialogue: 0,0:07:49.61,0:07:49.65,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1114.2)}THE 小剧场
+Dialogue: 2,0:07:49.65,0:07:49.69,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,984.25)}滑稽社
+Dialogue: 0,0:07:49.65,0:07:49.69,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1125.25)}THE 小剧场
+Dialogue: 2,0:07:49.69,0:07:49.74,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,995.37)}滑稽社
+Dialogue: 0,0:07:49.69,0:07:49.74,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1136.37)}THE 小剧场
+Dialogue: 2,0:07:49.74,0:07:49.78,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1006.47)}滑稽社
+Dialogue: 0,0:07:49.74,0:07:49.78,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1147.47)}THE 小剧场
+Dialogue: 2,0:07:49.78,0:07:49.82,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1017.54)}滑稽社
+Dialogue: 0,0:07:49.78,0:07:49.82,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1158.54)}THE 小剧场
+Dialogue: 2,0:07:49.82,0:07:49.86,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1028.54)}滑稽社
+Dialogue: 0,0:07:49.82,0:07:49.86,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1169.54)}THE 小剧场
+Dialogue: 2,0:07:49.86,0:07:49.90,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1039.52)}滑稽社
+Dialogue: 0,0:07:49.86,0:07:49.90,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1180.52)}THE 小剧场
+Dialogue: 2,0:07:49.90,0:07:49.94,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1050.51)}滑稽社
+Dialogue: 0,0:07:49.90,0:07:49.94,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1191.51)}THE 小剧场
+Dialogue: 2,0:07:49.94,0:07:49.99,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1061.34)}滑稽社
+Dialogue: 0,0:07:49.94,0:07:49.99,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1202.34)}THE 小剧场
+Dialogue: 2,0:07:49.99,0:07:50.03,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1072.25)}滑稽社
+Dialogue: 0,0:07:49.99,0:07:50.03,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1213.25)}THE 小剧场
+Dialogue: 2,0:07:50.03,0:07:50.07,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1083.12)}滑稽社
+Dialogue: 0,0:07:50.03,0:07:50.07,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1224.12)}THE 小剧场
+Dialogue: 2,0:07:50.07,0:07:50.11,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1093.87)}滑稽社
+Dialogue: 0,0:07:50.07,0:07:50.11,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1234.87)}THE 小剧场
+Dialogue: 2,0:07:50.11,0:07:50.15,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1104.55)}滑稽社
+Dialogue: 0,0:07:50.11,0:07:50.15,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1245.55)}THE 小剧场
+Dialogue: 2,0:07:50.15,0:07:50.19,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1115.26)}滑稽社
+Dialogue: 0,0:07:50.15,0:07:50.19,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1256.27)}THE 小剧场
+Dialogue: 2,0:07:50.19,0:07:50.24,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1125.86)}滑稽社
+Dialogue: 0,0:07:50.19,0:07:50.24,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1266.86)}THE 小剧场
+Dialogue: 2,0:07:50.24,0:07:50.28,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1136.51)}滑稽社
+Dialogue: 0,0:07:50.24,0:07:50.28,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1277.51)}THE 小剧场
+Dialogue: 2,0:07:50.28,0:07:50.32,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1147.01)}滑稽社
+Dialogue: 0,0:07:50.28,0:07:50.32,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1288.01)}THE 小剧场
+Dialogue: 2,0:07:50.32,0:07:50.36,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1157.28)}滑稽社
+Dialogue: 0,0:07:50.32,0:07:50.36,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1298.28)}THE 小剧场
+Dialogue: 2,0:07:50.36,0:07:50.40,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1167.75)}滑稽社
+Dialogue: 0,0:07:50.36,0:07:50.40,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1308.75)}THE 小剧场
+Dialogue: 2,0:07:50.40,0:07:50.44,场面文本,Text,0,0,0,,{=4}{\fs80\frz5\3c&H0000FF&\1c&HD1CDFF&\fsp200\fn华康圆体W3-A\b3\blur5\pos(1096,1178.04)}滑稽社
+Dialogue: 0,0:07:50.40,0:07:50.44,场面文本,Text,0,0,0,,{=5}{\frz3\shad0\3c&H4B7A97&\pos(1016,1319.04)}THE 小剧场
 Dialogue: 0,0:12:46.74,0:12:49.24,场面文本,Text,0,0,0,,{\fs60\an7\fsp25\frz270\fn@方正宋刻本秀楷_GBK\bord0\shad0\c&H28202E&\b0\pos(480,180)}柏木拓人与吉村清日
 Dialogue: 0,0:13:12.10,0:13:14.10,场面文本,Text,0,0,0,,{\fsp-2\fax0.03\fn方正宋刻本秀楷_GBK\bord0\shad0\b!\c&H533D62&\frz27\pos(1148,819)}·仅限在规定地区范围内当天外出使用。
 Comment: 0,0:13:12.10,0:13:14.10,场面文本,Text,0,0,0,,To后期 这段字是放在「外出许可证」几个字下面的
@@ -731,7 +731,7 @@ Dialogue: 1,0:03:37.49,0:03:39.32,淡岛_对白 中文,Kayo,0,0,0,,这也算是�
 Comment: 1,0:03:37.49,0:03:39.32,淡岛_对白 中文,Kayo,0,0,0,,这本身也和幻想没两样啊@扩张翻译
 Dialogue: 1,0:03:39.82,0:03:43.37,淡岛_对白 中文,Kayo,0,0,0,,所以我才说「那些扫粉丝兴致的话 还是少说两句吧」
 Comment: 1,0:03:39.82,0:03:43.37,淡岛_对白 中文,Kayo,0,0,0,,所以我才说「那些扫兴的话 还是少说两句吧」@把それ指代的内容翻译出来更好理解
-Dialogue: 1,0:03:44.12,0:03:48.08,淡岛_对白 中文,Kayo,0,0,0,,毕竟也有人就好这口对我们关系的幻想嘛
+Dialogue: 1,0:03:44.12,0:03:48.08,淡岛_对白 中文,Kayo,0,0,0,,毕竟我们也是靠当时粉丝的幻想过活嘛
 Comment: 1,0:03:44.12,0:03:48.08,淡岛_对白 中文,Kayo,0,0,0,,说白了 我们也是靠着当时的幻想混口饭吃嘛@とこもある翻译不准确
 Dialogue: 1,0:03:49.08,0:03:52.29,淡岛_对白 中文,Saori,0,0,0,,我真讨厌 你这种凡事都爱计较得失的性格
 Comment: 1,0:03:49.08,0:03:52.29,淡岛_对白 中文,Saori,0,0,0,,你这种凡事都爱计较得失的性格 真是讨厌
@@ -1688,5 +1688,5 @@ Comment: 0,0:22:08.77,0:22:11.93,淡岛_歌詞 日语 -,,0,0,0,karaoke,{\kf34}�
 
 [Aegisub Extradata]
 Data: 0,a-mo,u?S*V>7FE)DIC-$>E-W*E:DEN9T>D-CUU9TBG,4EY/41N.T!X.4EV9G9Q.T=Q)CQC<X*J:WFO97R5:8BU)DIC?VR=9G^S:$"=8(.I971Q8&RD*EAU1D2".D=G8&RQ<X-I-4!Q.SYT-T-M-T%Q,D-T-SF=8':T/$"=8')R@?;/J?G!A?3YL6R=4HN=8':T.D"^Z:#2ZJ?F[*'VZJ?F[:?UZIKEZZ#'Z,CNZ<_$)HU
-Data: 4,a-mo,e{"uuid"#3A"47a6796a-597c-4b77-9d96-2866ff7e6c16"#2C"originalText"#3A"{\\fs80\\frz5\\3c&H0000FF&\\1c&HD1CDFF&\\fsp200\\fn#E5#8D#8E#E5#BA#B7#E5#9C#86#E4#BD#93W3-A\\b3\\blur5\\pos(1096#2C331.333)}#E6#BB#91#E7#A8#BD#E7#A4#BE"}
-Data: 5,a-mo,e{"uuid"#3A"dd8e3751-075b-46c2-b56a-602001a784df"#2C"originalText"#3A"{\\frz3\\shad0\\3c&H4B7A97&\\pos(1016#2C472.333)}THE #E5#B0#8F#E5#89#A7#E5#9C#BA"}
+Data: 4,a-mo,e{"uuid"#00"47a6796a-597c-4b77-9d96-2866ff7e6c16"#00"originalText"#00"{\\fs80\\frz5\\3c&H0000FF&\\1c&HD1CDFF&\\fsp200\\fn#00#00#00#00#00#00#00#00#00#00#00#00W3-A\\b3\\blur5\\pos(1096#00331.333)}#00#00#00#00#00#00#00#00#00"}
+Data: 5,a-mo,e{"uuid"#00"dd8e3751-075b-46c2-b56a-602001a784df"#00"originalText"#00"{\\frz3\\shad0\\3c&H4B7A97&\\pos(1016#00472.333)}THE #00#00#00#00#00#00#00#00#00"}
