@@ -11,16 +11,6 @@ Video Aspect Ratio: 0
 Video Zoom: 8
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Audio File: [SubsPlease] Awajima Hyakkei - 12 (1080p) [FE1C0B19]_neenc.mp4
-Video File: [SubsPlease] Awajima Hyakkei - 12 (1080p) [FE1C0B19]_neenc.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 102
-Active Line: 108
-Video Position: 18516
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Roboto Medium,78,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,0
