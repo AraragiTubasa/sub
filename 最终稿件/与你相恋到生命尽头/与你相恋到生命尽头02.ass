@@ -8,6 +8,16 @@ PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+Audio File: E:/sub-working/字幕处理/1.mkv
+Video File: E:/sub-working/字幕处理/1.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 435
+Active Line: 439
+Video Position: 20621
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 屏幕字,方正中雅宋_GBK,90,&H00201819,&H00FFFFFF,&H00000000,&H00050506,-1,0,0,0,100,100,5,0,1,3.5,0,2,135,135,10,1
@@ -246,7 +256,7 @@ Dialogue: 0,0:04:41.19,0:04:42.88,Seiran日,31,0,0,0,,シーナ
 Dialogue: 1,0:04:42.88,0:04:44.15,Seiran中,30,0,0,0,,你没事吧?
 Dialogue: 0,0:04:42.88,0:04:44.15,Seiran日,31,0,0,0,,大丈夫?
 Dialogue: 1,0:04:44.15,0:04:45.47,Shiina中,10,0,0,0,,星兰
-Dialogue: 0,0:04:44.15,0:04:45.47,Shiina日,11,0,0,0,,セイラ
+Dialogue: 0,0:04:44.15,0:04:45.47,Shiina日,11,0,0,0,,セイラン
 Dialogue: 1,0:04:45.47,0:04:47.59,Seiran中,30,0,0,0,,为了明天能够好好地打倒目标加油吧
 Dialogue: 0,0:04:45.47,0:04:47.59,Seiran日,31,0,0,0,,明日はちゃんと倒せるように頑張ろう
 Dialogue: 1,0:04:47.59,0:04:49.10,Shiina中,10,0,0,0,,嗯…嗯
@@ -286,7 +296,7 @@ Dialogue: 0,0:05:37.70,0:05:40.40,Mimi日,21,0,0,0,,いつも保健医にやっ�
 Dialogue: 1,0:05:48.36,0:05:50.03,Shiina中,10,0,0,0,,她真的
 Dialogue: 0,0:05:48.36,0:05:50.03,Shiina日,11,0,0,0,,本当に
 Dialogue: 1,0:05:50.03,0:05:51.99,Shiina中,10,0,0,0,,和我同龄吗
-Dialogue: 0,0:05:50.03,0:05:51.99,Shiina日,11,0,0,0,,同じ歳なんだろうか
+Dialogue: 0,0:05:50.03,0:05:51.99,Shiina日,11,0,0,0,,同じ年なんだろうか
 Dialogue: 1,0:05:53.57,0:05:54.82,Mimi中,20,0,0,0,,席娜
 Dialogue: 0,0:05:53.57,0:05:54.82,Mimi日,21,0,0,0,,シーナ
 Dialogue: 1,0:05:54.82,0:05:56.38,Shiina中,10,0,0,0,,要向前看啊
@@ -338,7 +348,7 @@ Dialogue: 1,0:07:13.53,0:07:15.70,Omi中,,0,0,0,,目标是一个人打败3只
 Dialogue: 0,0:07:16.29,0:07:17.90,Shiina日,,0,0,0,,3体か…
 Dialogue: 1,0:07:16.29,0:07:17.90,Shiina中,,0,0,0,,3只吗…
 Dialogue: 0,0:07:17.90,0:07:21.02,Mimi日,,0,0,0,,シーナ お揃いだね
-Dialogue: 1,0:07:17.90,0:07:21.02,Mimi中,,0,0,0,,席娜 我们一组呢
+Dialogue: 1,0:07:17.90,0:07:21.02,Mimi中,,0,0,0,,席娜 我们衣服一样呢
 Dialogue: 0,0:07:21.85,0:07:23.03,Shiina日,,0,0,0,,そうだね
 Dialogue: 1,0:07:21.85,0:07:23.03,Shiina中,,0,0,0,,是啊
 Dialogue: 0,0:07:24.73,0:07:26.90,Omi日,,0,0,0,,皆さん ここにいるのは
@@ -476,8 +486,8 @@ Dialogue: 0,0:14:10.36,0:14:12.20,Seiran日,,0,0,0,,どうしよう シーナが
 Dialogue: 1,0:14:10.36,0:14:12.20,Seiran中,,0,0,0,,该怎么办 席娜她…
 Dialogue: 0,0:14:13.54,0:14:15.88,Ari日,,0,0,0,,きっと大丈夫よ セイラン
 Dialogue: 1,0:14:13.54,0:14:15.88,Ari中,,0,0,0,,她肯定不会有事的 星兰
-Dialogue: 0,0:14:17.20,0:14:18.75,Shiina日,,0,0,0,,保健医
-Dialogue: 1,0:14:17.20,0:14:18.75,Shiina中,,0,0,0,,保健医生
+Dialogue: 0,0:14:17.20,0:14:18.75,Mimi日,,0,0,0,,保健医
+Dialogue: 1,0:14:17.20,0:14:18.75,Mimi中,,0,0,0,,保健医生
 Dialogue: 0,0:14:18.75,0:14:20.23,Furan日,,0,0,0,,おー あった?
 Dialogue: 1,0:14:18.75,0:14:20.23,Furan中,,0,0,0,,哦 找到了吗?
 Dialogue: 0,0:14:20.23,0:14:24.47,Mimi日,,0,0,0,,ううん なかった いっぱい探したんだけど
