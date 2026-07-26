@@ -1,0 +1,410 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+Update Details: v3 - after TOHO notes, color change, two FNs added
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: BD DX,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:03.60,BD DX,,0,0,0,,Lady Keigetsu. I'm here to pick you up.
+Dialogue: 0,0:00:03.98,0:00:07.15,BD DX,Sign,0,0,0,,{\an8}SHU CLAN COURT LADY - LEELEE
+Dialogue: 0,0:00:04.90,0:00:07.23,BD DX,,0,0,0,,{\i1}A plain washed-scarlet garment...{\i0}
+Dialogue: 0,0:00:07.23,0:00:11.94,BD DX,Sign,0,0,0,,{\an8}SHU CLAN MAIDEN - SHU KEIGETSU\N(SOUL OF REIRIN)
+Dialogue: 0,0:00:07.77,0:00:09.73,BD DX,,0,0,0,,{\i1}She must serve the Shu clan.{\i0}
+Dialogue: 0,0:00:09.82,0:00:11.94,BD DX,,0,0,0,,{\i1}I wonder if she is a lower court lady?{\i0}
+Dialogue: 0,0:00:12.61,0:00:17.58,BD DX,,0,0,0,,The Noble Consort has given orders\Nfor me to assist you in your relocation.
+Dialogue: 0,0:00:17.66,0:00:18.95,BD DX,,0,0,0,,Relocation?
+Dialogue: 0,0:00:19.45,0:00:23.12,BD DX,,0,0,0,,She said someone\Nwho created a ruckus in the inner court
+Dialogue: 0,0:00:23.21,0:00:26.33,BD DX,,0,0,0,,cannot be treated the same as before,\Neven if innocent.
+Dialogue: 0,0:00:26.79,0:00:28.38,BD DX,,0,0,0,,I understand.
+Dialogue: 0,0:00:28.46,0:00:30.55,BD DX,,0,0,0,,Please lead the way.
+Dialogue: 0,0:00:30.63,0:00:32.34,BD DX,,0,0,0,,Um, you are....
+Dialogue: 0,0:00:34.76,0:00:36.34,BD DX,,0,0,0,,I am Leelee.
+Dialogue: 0,0:00:36.72,0:00:37.85,BD DX,,0,0,0,,Leelee.
+Dialogue: 0,0:00:38.01,0:00:41.02,BD DX,,0,0,0,,I have been serving at your side\Nfor the past year.
+Dialogue: 0,0:00:41.10,0:00:43.98,BD DX,,0,0,0,,But I suppose this is\Nyour level of recognition of me.
+Dialogue: 0,0:00:44.73,0:00:45.64,BD DX,,0,0,0,,Huh?
+Dialogue: 0,0:00:45.73,0:00:48.02,BD DX,,0,0,0,,{\i1}She is a personal court lady?{\i0}
+Dialogue: 0,0:00:48.19,0:00:54.03,BD DX,,0,0,0,,{\i1}You could have some doubt about\Nwhether or not I am the actual person.{\i0}
+Dialogue: 0,0:01:09.92,0:01:14.59,BD DX,Sign,0,0,0,,{\an8\pos(160,36.667)}THOUGH I AM\NAN INEPT VILLAINESS
+Dialogue: 0,0:02:24.74,0:02:28.00,BD DX,Sign,0,0,0,,{\an8}INNER COURT\NPALACE OF THE VERMILLION STALLION\N(SHU PALACE)
+Dialogue: 0,0:02:28.29,0:02:30.21,BD DX,,0,0,0,,{\i1}So this is the Shu Palace.{\i0}
+Dialogue: 0,0:02:31.13,0:02:33.42,BD DX,,0,0,0,,{\i1}Of the five clans\Nrepresenting the Kingdom of Ei,{\i0}
+Dialogue: 0,0:02:33.50,0:02:38.97,BD DX,,0,0,0,,{\i1}the Shu clan governed\Nthe southern lands and revered fire.{\i0}
+Dialogue: 0,0:02:37.72,0:02:40.13,BD DX,Sign,0,0,0,,{\an8}IMPERIAL CAPITAL
+Dialogue: 0,0:02:37.72,0:02:40.13,BD DX,Sign,0,0,0,,{\an4\pos(45,133.333)}THE WEST
+Dialogue: 0,0:02:37.72,0:02:40.13,BD DX,Sign,0,0,0,,{\an9\pos(593.333,85)}KINGDOM OF EI
+Dialogue: 0,0:02:37.72,0:02:40.13,BD DX,Sign,0,0,0,,{\an2\pos(391.667,265)}SHU CLAN\NSOUTHERN LANDS
+Dialogue: 0,0:02:39.05,0:02:42.51,BD DX,,0,0,0,,{\i1}So gorgeous, with powerful coloring.{\i0}
+Dialogue: 0,0:02:40.22,0:02:42.51,BD DX,Sign,0,0,0,,{\an5}KOU CLAN\NCENTRAL LANDS
+Dialogue: 0,0:02:40.22,0:02:42.51,BD DX,Sign,0,0,0,,{\an5\pos(440,215)}RAN CLAN\NEASTERN LANDS
+Dialogue: 0,0:02:40.22,0:02:42.51,BD DX,Sign,0,0,0,,{\an2\pos(121.667,165)}KIN CLAN\NWESTERN LANDS
+Dialogue: 0,0:02:40.22,0:02:42.51,BD DX,Sign,0,0,0,,{\an8}GEN CLAN\NNORTHERN LANDS
+Dialogue: 0,0:02:43.01,0:02:44.01,BD DX,,0,0,0,,Oh?
+Dialogue: 0,0:02:44.31,0:02:45.22,BD DX,,0,0,0,,Leelee.
+Dialogue: 0,0:02:45.31,0:02:47.77,BD DX,,0,0,0,,Um, I'd like to say hello\Nto Noble Consort Shu.
+Dialogue: 0,0:02:47.98,0:02:51.60,BD DX,,0,0,0,,I have been told by the Noble Consort\Nthat you need to restrain yourself.
+Dialogue: 0,0:02:51.85,0:02:53.48,BD DX,,0,0,0,,That can't be.
+Dialogue: 0,0:02:53.81,0:02:56.78,BD DX,,0,0,0,,{\i1}In the inner court,\Nthe Consort and the Maiden{\i0}
+Dialogue: 0,0:02:56.86,0:02:59.74,BD DX,,0,0,0,,{\i1}are supposed to have a bond\Nsimilar to mother and child.{\i0}
+Dialogue: 0,0:02:59.74,0:03:05.49,BD DX,Sign,0,0,0,,{\an8}EMPRESS - KOU KENSHUU
+Dialogue: 0,0:03:00.03,0:03:03.99,BD DX,,0,0,0,,{\i1}If this was my aunt,\Nshe would try to hear me out first.{\i0}
+Dialogue: 0,0:03:04.49,0:03:07.79,BD DX,,0,0,0,,{\i1}Although, if I really\Nhad committed a crime,{\i0}
+Dialogue: 0,0:03:07.87,0:03:12.04,BD DX,,0,0,0,,{\i1}she would cut off my head\Nby her own hand.{\i0}
+Dialogue: 0,0:03:12.96,0:03:16.38,BD DX,,0,0,0,,{\i1}Perhaps Noble Consort Shu\Nis quite cold-blooded?{\i0}
+Dialogue: 0,0:03:16.88,0:03:17.88,BD DX,,0,0,0,,{\i1}However...{\i0}
+Dialogue: 0,0:03:19.30,0:03:21.97,BD DX,,0,0,0,,{\i1}she is one to be affectionate\Neven to insects.{\i0}
+Dialogue: 0,0:03:19.92,0:03:25.51,BD DX,Sign,0,0,0,,{\an8}NOBLE CONSORT\NSHU GABI
+Dialogue: 0,0:03:22.05,0:03:25.51,BD DX,,0,0,0,,{\i1}I cannot possibly think\Nshe has a cold heart.{\i0}
+Dialogue: 0,0:03:29.48,0:03:31.02,BD DX,,0,0,0,,My, how smelly.
+Dialogue: 0,0:03:31.10,0:03:35.23,BD DX,,0,0,0,,There are two rats scurrying about,\Na black rat and a red rat.
+Dialogue: 0,0:03:35.94,0:03:38.82,BD DX,,0,0,0,,{\i1}The middle court ladies\Nsaying that to a Maiden.{\i0}
+Dialogue: 0,0:03:38.90,0:03:43.66,BD DX,,0,0,0,,{\i1}In Kou Palace, everyone gave me\Nkind words as I walked down the street.{\i0}
+Dialogue: 0,0:03:43.41,0:03:48.04,BD DX,Sign,0,0,0,,{\an8}CONGRATULATIONS ON YOUR RECOVERY
+Dialogue: 0,0:03:43.74,0:03:45.99,BD DX,,0,0,0,,{\i1}-Lady Reirin!\N-Your fever has gone down!{\i0}
+Dialogue: 0,0:03:46.08,0:03:48.04,BD DX,,0,0,0,,{\i1}Please make sure to eat up!{\i0}
+Dialogue: 0,0:03:48.66,0:03:52.25,BD DX,,0,0,0,,{\i1}Oh? It happened all the time,\Nso I didn't make a fuss.{\i0}
+Dialogue: 0,0:03:52.33,0:03:54.58,BD DX,,0,0,0,,{\i1}Perhaps that was a bit abnormal?{\i0}
+Dialogue: 0,0:03:54.96,0:03:57.50,BD DX,,0,0,0,,{\i1}I would like to be more independent.{\i0}
+Dialogue: 0,0:03:57.59,0:03:59.71,BD DX,,0,0,0,,{\i1}My dream is a self-sufficient life!{\i0}
+Dialogue: 0,0:03:59.80,0:04:01.80,BD DX,,0,0,0,,This is your new room.
+Dialogue: 0,0:04:01.88,0:04:02.88,BD DX,,0,0,0,,Oh.
+Dialogue: 0,0:04:06.93,0:04:08.26,BD DX,,0,0,0,,This is...
+Dialogue: 0,0:04:09.18,0:04:11.81,BD DX,,0,0,0,,This used to be a pantry.
+Dialogue: 0,0:04:11.89,0:04:13.81,BD DX,,0,0,0,,Now that it has been abandoned,
+Dialogue: 0,0:04:13.89,0:04:17.40,BD DX,,0,0,0,,it is fertile ground\Nfor insects and fungi.
+Dialogue: 0,0:04:17.90,0:04:20.19,BD DX,,0,0,0,,{\i1}Across the street\Nis the Ran clan's estate.{\i0}
+Dialogue: 0,0:04:20.69,0:04:24.16,BD DX,,0,0,0,,{\i1}Which means this is the farthest reaches\Nof the Shu Palace.{\i0}
+Dialogue: 0,0:04:24.66,0:04:26.91,BD DX,,0,0,0,,{\i1}I have been exiled.{\i0}
+Dialogue: 0,0:04:27.62,0:04:30.41,BD DX,,0,0,0,,I will be living here?
+Dialogue: 0,0:04:30.70,0:04:32.16,BD DX,,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:04:32.66,0:04:33.66,BD DX,,0,0,0,,Leelee?
+Dialogue: 0,0:04:34.50,0:04:37.21,BD DX,,0,0,0,,{\an8}I'm sure you tried to kill her, right?
+Dialogue: 0,0:04:37.29,0:04:40.84,BD DX,,0,0,0,,{\an8}You got cast off in a place like this\Nbecause you're the biggest idiot!
+Dialogue: 0,0:04:41.26,0:04:43.01,BD DX,,0,0,0,,Taking care of you\Nin an abandoned building?
+Dialogue: 0,0:04:43.09,0:04:45.59,BD DX,,0,0,0,,They're basically telling me\Nto die with you!
+Dialogue: 0,0:04:45.84,0:04:47.34,BD DX,,0,0,0,,Why are you so surprised?
+Dialogue: 0,0:04:47.43,0:04:52.02,BD DX,,0,0,0,,You've mocked me for all this time,\Ncalling me a vulgar dancer's girl!
+Dialogue: 0,0:04:52.39,0:04:54.64,BD DX,,0,0,0,,{\i1}No matter how much you smooth it over,{\i0}
+Dialogue: 0,0:04:54.73,0:04:58.44,BD DX,,0,0,0,,{\i1}the blood of your seductive mother\Nwon't go away.{\i0}
+Dialogue: 0,0:04:59.65,0:05:03.28,BD DX,,0,0,0,,Cowering now that I've shown\Nmy true nature? That's absurd!
+Dialogue: 0,0:05:05.20,0:05:08.91,BD DX,,0,0,0,,{\i1}Amber eyes.\NHair with a strong shade of red.{\i0}
+Dialogue: 0,0:05:08.99,0:05:11.83,BD DX,,0,0,0,,{\i1}A speech pattern\Nsimilar to residents of the outer city.{\i0}
+Dialogue: 0,0:05:12.29,0:05:16.33,BD DX,,0,0,0,,{\i1}I assume someone in the Shu clan had\Na relationship with an immigrant dancer.{\i0}
+Dialogue: 0,0:05:17.04,0:05:20.84,BD DX,,0,0,0,,{\i1}And that's why she is given the\Nlowest-ranking washed-scarlet garments,{\i0}
+Dialogue: 0,0:05:20.92,0:05:24.05,BD DX,,0,0,0,,{\i1}even though she is a personal court lady.{\i0}
+Dialogue: 0,0:05:24.13,0:05:28.84,BD DX,,0,0,0,,I won't be holding back anymore!\NI still have my court lady's room left.
+Dialogue: 0,0:05:29.18,0:05:30.47,BD DX,,0,0,0,,I won't be sleeping here,
+Dialogue: 0,0:05:30.55,0:05:33.47,BD DX,,0,0,0,,so you can clean this place up\Nand do laundry all by yourself!
+Dialogue: 0,0:05:33.56,0:05:34.48,BD DX,,0,0,0,,Huh? By myself?
+Dialogue: 0,0:05:34.56,0:05:38.60,BD DX,,0,0,0,,I'm sure none of the court ladies\Nyou have abused will help you out, either!
+Dialogue: 0,0:05:39.31,0:05:41.57,BD DX,,0,0,0,,Noble Consort Shu\Nsaid you won't take part
+Dialogue: 0,0:05:41.65,0:05:43.57,BD DX,,0,0,0,,in the Ghost Festival\Nin seven days, either.
+Dialogue: 0,0:05:44.03,0:05:45.11,BD DX,,0,0,0,,Make yourself at home.
+Dialogue: 0,0:05:54.20,0:05:57.04,BD DX,,0,0,0,,Will I be living here?
+Dialogue: 0,0:05:57.87,0:05:59.33,BD DX,,0,0,0,,In such a...
+Dialogue: 0,0:05:59.67,0:06:01.46,BD DX,,0,0,0,,wonderful place?
+Dialogue: 0,0:06:01.67,0:06:03.46,BD DX,,0,0,0,,Grass as far as I can see!
+Dialogue: 0,0:06:03.67,0:06:05.46,BD DX,,0,0,0,,Fertile soil.
+Dialogue: 0,0:06:05.71,0:06:06.72,BD DX,,0,0,0,,And...
+Dialogue: 0,0:06:07.38,0:06:08.88,BD DX,,0,0,0,,freedom!
+Dialogue: 0,0:06:11.55,0:06:14.97,BD DX,,0,0,0,,I can grow as many medicinal herbs,\Nexperiment, sleep,
+Dialogue: 0,0:06:15.06,0:06:17.73,BD DX,,0,0,0,,and be as rowdy as I want to!
+Dialogue: 0,0:06:23.82,0:06:29.70,BD DX,,0,0,0,,{\i1}From a young age, I always had a frail\Nbody and kept making everyone worry.{\i0}
+Dialogue: 0,0:06:30.57,0:06:33.49,BD DX,,0,0,0,,{\i1}Reirin, put some grit\Ninto anything you do.{\i0}
+Dialogue: 0,0:06:34.16,0:06:36.29,BD DX,,0,0,0,,{\i1}The Kou clan are servants of the earth.{\i0}
+Dialogue: 0,0:06:36.37,0:06:41.33,BD DX,,0,0,0,,{\i1}My aunt mentioned that we take pride\Nin standing on our own two feet{\i0}
+Dialogue: 0,0:06:41.42,0:06:44.13,BD DX,,0,0,0,,{\i1}and even appreciated our hardships.{\i0}
+Dialogue: 0,0:06:44.67,0:06:47.88,BD DX,,0,0,0,,All right!\NI will do my best with grit!
+Dialogue: 0,0:06:48.84,0:06:50.51,BD DX,,0,0,0,,Captain.
+Dialogue: 0,0:06:50.51,0:06:57.56,BD DX,Sign,0,0,0,,{\an8}EUNUCH - BUNKOU
+Dialogue: 0,0:06:50.68,0:06:53.39,BD DX,,0,0,0,,Though she was innocent\Nin the Lion's Judgment,
+Dialogue: 0,0:06:53.47,0:06:57.64,BD DX,,0,0,0,,is there really a need for us\Nto go check on Shu Keigetsu?
+Dialogue: 0,0:06:57.64,0:07:00.14,BD DX,Sign,0,0,0,,{\an8}CAPTAIN OF THE EAGLE EYES - SHIN-U
+Dialogue: 0,0:06:57.89,0:07:00.14,BD DX,,0,0,0,,It's because His Highness is worried.
+Dialogue: 0,0:07:00.73,0:07:03.65,BD DX,,0,0,0,,{\i1}Make sure Reirin is not harmed again.{\i0}
+Dialogue: 0,0:07:03.65,0:07:05.90,BD DX,Sign,0,0,0,,{\an8}CROWN PRINCE - EI GYOUMEI
+Dialogue: 0,0:07:04.23,0:07:05.90,BD DX,,0,0,0,,{\i1}Stay on guard.{\i0}
+Dialogue: 0,0:07:06.15,0:07:08.24,BD DX,,0,0,0,,So that's what this is about.
+Dialogue: 0,0:07:08.32,0:07:10.91,BD DX,,0,0,0,,His Highness is so devoted to Lady Reirin.
+Dialogue: 0,0:07:13.16,0:07:14.37,BD DX,,0,0,0,,Oh.
+Dialogue: 0,0:07:14.91,0:07:19.00,BD DX,,0,0,0,,But still, the Shu clan exiled\Ntheir Maiden to a place like this?
+Dialogue: 0,0:07:19.08,0:07:21.29,BD DX,,0,0,0,,Hmph. Serves her right.
+Dialogue: 0,0:07:21.37,0:07:24.17,BD DX,,0,0,0,,Eunuchs cannot harm a Maiden at all.
+Dialogue: 0,0:07:24.42,0:07:26.50,BD DX,,0,0,0,,She took advantage of that rule.
+Dialogue: 0,0:07:26.59,0:07:28.80,BD DX,,0,0,0,,Everyone was tormented so much\Nbecause of that.
+Dialogue: 0,0:07:29.01,0:07:31.55,BD DX,,0,0,0,,And now she is facing torment.
+Dialogue: 0,0:07:31.63,0:07:32.97,BD DX,,0,0,0,,I'm sure she's in her old room
+Dialogue: 0,0:07:33.05,0:07:35.97,BD DX,,0,0,0,,throwing a tantrum\Nthat she doesn't want to leave there?
+Dialogue: 0,0:07:36.06,0:07:37.72,BD DX,,0,0,0,,I'd be willing to bet--
+Dialogue: 0,0:07:37.81,0:07:39.06,BD DX,,0,0,0,,-Oh?\N-Huh?
+Dialogue: 0,0:07:39.14,0:07:43.06,BD DX,,0,0,0,,Oh, my. Captain of the Eagle Eyes\Nand Master Bunkou.
+Dialogue: 0,0:07:43.44,0:07:45.40,BD DX,,0,0,0,,I hope you are having a good day.
+Dialogue: 0,0:07:45.48,0:07:47.44,BD DX,,0,0,0,,Shu Keigetsu?
+Dialogue: 0,0:07:47.53,0:07:49.19,BD DX,,0,0,0,,Oh? No--
+Dialogue: 0,0:07:49.28,0:07:52.49,BD DX,,0,0,0,,I mean, yes. That's right.
+Dialogue: 0,0:07:52.57,0:07:54.87,BD DX,,0,0,0,,What exactly are you doing here?
+Dialogue: 0,0:07:54.95,0:07:57.20,BD DX,,0,0,0,,As you can see, weeding the area.
+Dialogue: 0,0:07:57.28,0:08:01.33,BD DX,,0,0,0,,I was thinking I would prepare this area\Nto live comfortably.
+Dialogue: 0,0:08:01.66,0:08:03.46,BD DX,,0,0,0,,What happened to your personal court lady?
+Dialogue: 0,0:08:03.75,0:08:05.29,BD DX,,0,0,0,,Um, uh--
+Dialogue: 0,0:08:05.38,0:08:08.84,BD DX,,0,0,0,,Right. She is out on an errand.
+Dialogue: 0,0:08:09.13,0:08:10.97,BD DX,,0,0,0,,She's been abandoned.
+Dialogue: 0,0:08:11.05,0:08:11.97,BD DX,,0,0,0,,Oh?
+Dialogue: 0,0:08:12.05,0:08:14.97,BD DX,,0,0,0,,It would be wonderful\Nif I could prepare some tea for you two,
+Dialogue: 0,0:08:15.05,0:08:17.26,BD DX,,0,0,0,,but unfortunately\Nthis is the situation I am in.
+Dialogue: 0,0:08:17.35,0:08:21.35,BD DX,,0,0,0,,Tea? I can understand for the Captain,\Nbut for an eunuch?
+Dialogue: 0,0:08:21.56,0:08:25.94,BD DX,,0,0,0,,It pains my heart to keep you two here,\Nas you are both busy.
+Dialogue: 0,0:08:26.02,0:08:28.61,BD DX,,0,0,0,,So if you'll excuse me...
+Dialogue: 0,0:08:29.57,0:08:32.24,BD DX,,0,0,0,,Is there something you would like to have?
+Dialogue: 0,0:08:32.99,0:08:35.49,BD DX,,0,0,0,,Something to have?
+Dialogue: 0,0:08:35.57,0:08:38.95,BD DX,,0,0,0,,Oh, no, if I were to be assisted\Nby everyone, including you, Captain,
+Dialogue: 0,0:08:39.03,0:08:40.87,BD DX,,0,0,0,,the actual charm of this would be lost.
+Dialogue: 0,0:08:40.95,0:08:43.12,BD DX,,0,0,0,,-Charm?\N-Oh, nothing.
+Dialogue: 0,0:08:43.96,0:08:48.42,BD DX,,0,0,0,,However, if I am able\Nto take advantage of your kindness...
+Dialogue: 0,0:08:48.50,0:08:50.00,BD DX,,0,0,0,,Here it comes.
+Dialogue: 0,0:08:50.30,0:08:53.63,BD DX,,0,0,0,,All this meekness is just an act!
+Dialogue: 0,0:08:53.72,0:08:55.97,BD DX,,0,0,0,,-She's gonna ask for a whole lot.\N-No, but, hmm...
+Dialogue: 0,0:08:56.05,0:08:58.80,BD DX,,0,0,0,,A court lady, money,\Nor word with Noble Consort Shu.
+Dialogue: 0,0:08:58.89,0:09:00.81,BD DX,,0,0,0,,Would you get me some salt?
+Dialogue: 0,0:09:01.06,0:09:02.89,BD DX,,0,0,0,,-Salt?\N-That's all?
+Dialogue: 0,0:09:03.02,0:09:04.89,BD DX,,0,0,0,,I am quite fortunate here,
+Dialogue: 0,0:09:04.98,0:09:07.81,BD DX,,0,0,0,,and it seems I will be able to procure\Nrainwater and potatoes.
+Dialogue: 0,0:09:07.90,0:09:12.40,BD DX,,0,0,0,,However, I don't think\NI will be able to make some salt in a day.
+Dialogue: 0,0:09:15.86,0:09:18.91,BD DX,,0,0,0,,Is that really Shu Keigetsu?
+Dialogue: 0,0:09:19.33,0:09:20.95,BD DX,,0,0,0,,After the Lion's Judgment,
+Dialogue: 0,0:09:21.04,0:09:24.04,BD DX,,0,0,0,,she did say she was a different person\Nfrom her previous self.
+Dialogue: 0,0:09:24.12,0:09:26.37,BD DX,,0,0,0,,I assume she fully repented\Nin the dungeon.
+Dialogue: 0,0:09:26.46,0:09:29.79,BD DX,,0,0,0,,I see. The power of the underground\Ndungeon sure is something.
+Dialogue: 0,0:09:30.50,0:09:33.76,BD DX,,0,0,0,,Now, Bunkou, you have lost your bet...
+Dialogue: 0,0:09:33.84,0:09:34.84,BD DX,,0,0,0,,Wha?
+Dialogue: 0,0:09:34.84,0:09:39.60,BD DX,Sign,0,0,0,,{\an8}CULINARY UNIT
+Dialogue: 0,0:09:35.55,0:09:38.22,BD DX,,0,0,0,,I beg of you, culinary matron.
+Dialogue: 0,0:09:38.30,0:09:41.22,BD DX,,0,0,0,,May I somehow get enough food for\Nthe two of us, myself and Lady Keigetsu?
+Dialogue: 0,0:09:41.31,0:09:42.97,BD DX,,0,0,0,,I told you. I have no food
+Dialogue: 0,0:09:43.06,0:09:47.48,BD DX,,0,0,0,,to give to the disgraceful Shu Maiden\Nand a dancer's girl.
+Dialogue: 0,0:09:47.56,0:09:49.06,BD DX,,0,0,0,,You're in the way. Stand aside.
+Dialogue: 0,0:09:49.56,0:09:51.15,BD DX,,0,0,0,,{\an8}{\i1}Damn it.{\i0}
+Dialogue: 0,0:09:51.23,0:09:54.57,BD DX,,0,0,0,,{\an8}{\i1}I mouthed off to Shu Keigetsu\Nthat I won't take care of her.{\i0}
+Dialogue: 0,0:09:54.57,0:09:59.03,BD DX,,0,0,0,,{\i1}But if I can't get any food,\NI'm also going to die of starvation.{\i0}
+Dialogue: 0,0:09:59.11,0:10:01.83,BD DX,,0,0,0,,{\i1}If I can't expect to get any help\Nfrom the Shu Palace,{\i0}
+Dialogue: 0,0:10:01.91,0:10:03.91,BD DX,,0,0,0,,{\i1}I have to go beg at another palace.{\i0}
+Dialogue: 0,0:10:03.99,0:10:05.70,BD DX,,0,0,0,,-You there.\N-Hmm?
+Dialogue: 0,0:10:07.37,0:10:09.33,BD DX,,0,0,0,,{\i1}Ivory silk.{\i0}
+Dialogue: 0,0:10:09.83,0:10:13.84,BD DX,,0,0,0,,{\i1}Why is an upper court lady\Nfrom the Kin clan approaching me?{\i0}
+Dialogue: 0,0:10:14.00,0:10:17.22,BD DX,,0,0,0,,What can I do for you, lady of ivory silk?
+Dialogue: 0,0:10:17.30,0:10:21.10,BD DX,,0,0,0,,The sun will set soon,\Nso I will cut right to the chase.
+Dialogue: 0,0:10:21.72,0:10:23.43,BD DX,,0,0,0,,{\an8}My poor washed-scarlet girl.
+Dialogue: 0,0:10:23.51,0:10:25.39,BD DX,,0,0,0,,{\an8}Would you like to be a court lady\Nfor the Kin clan?
+Dialogue: 0,0:10:25.47,0:10:26.39,BD DX,,0,0,0,,{\an8}What?
+Dialogue: 0,0:10:26.48,0:10:30.06,BD DX,,0,0,0,,{\an8}I have heard of the punishment\Nfor Shu Keigetsu.
+Dialogue: 0,0:10:30.56,0:10:32.98,BD DX,,0,0,0,,{\an8}You got pulled into it, did you not?
+Dialogue: 0,0:10:33.19,0:10:38.07,BD DX,,0,0,0,,{\an8}Even if you were the daughter of a dancer,\Nyou were not born wishing to be so.
+Dialogue: 0,0:10:38.15,0:10:39.61,BD DX,,0,0,0,,{\an8}How pitiful.
+Dialogue: 0,0:10:40.53,0:10:45.70,BD DX,,0,0,0,,{\an8}It pains the heart of my Maiden,\Nthe wise Lady Kin Seika.
+Dialogue: 0,0:10:45.79,0:10:47.25,BD DX,,0,0,0,,{\an8}Lady Kin Seika?
+Dialogue: 0,0:10:47.50,0:10:49.50,BD DX,Sign,0,0,0,,{\an8}KIN CLAN MAIDEN\NKIN SEIKA
+Dialogue: 0,0:10:49.58,0:10:51.71,BD DX,,0,0,0,,{\an8}Therefore, given certain conditions,
+Dialogue: 0,0:10:51.79,0:10:55.46,BD DX,,0,0,0,,{\an8}I shall grant you\Na garment of silver ermine.
+Dialogue: 0,0:10:56.13,0:11:00.26,BD DX,,0,0,0,,{\an8}{\i1}Silver ermine? That is the color of\Nthe middle court ladies of the Kin clan!{\i0}
+Dialogue: 0,0:11:00.72,0:11:03.43,BD DX,,0,0,0,,{\an8}Wh-What would those conditions be?
+Dialogue: 0,0:11:05.35,0:11:07.10,BD DX,,0,0,0,,It is quite simple.
+Dialogue: 0,0:11:07.60,0:11:12.19,BD DX,,0,0,0,,I would like you to torture\Nthe one you serve, Shu Keigetsu.
+Dialogue: 0,0:11:16.03,0:11:16.98,BD DX,,0,0,0,,What?
+Dialogue: 0,0:11:17.19,0:11:19.99,BD DX,,0,0,0,,Why would another clan retaliate\Nfor what happened to Lady Reirin?
+Dialogue: 0,0:11:20.11,0:11:21.78,BD DX,,0,0,0,,Listen.
+Dialogue: 0,0:11:21.86,0:11:24.33,BD DX,,0,0,0,,Lady Reirin is\NHis Highness's favored butterfly.
+Dialogue: 0,0:11:24.41,0:11:26.54,BD DX,,0,0,0,,If you seek favor from His Highness,
+Dialogue: 0,0:11:26.62,0:11:29.71,BD DX,,0,0,0,,simply volunteer yourself\Nand swear devotion to Lady Reirin.
+Dialogue: 0,0:11:30.00,0:11:32.92,BD DX,,0,0,0,,{\i1}In other words, keep Shu Keigetsu down,{\i0}
+Dialogue: 0,0:11:33.00,0:11:35.71,BD DX,,0,0,0,,{\i1}and play it out as if the Kin clan\Nis on Kou Reirin's side.{\i0}
+Dialogue: 0,0:11:36.25,0:11:38.46,BD DX,,0,0,0,,{\i1}The Kin clan\Nis the heart of Ei's economy.{\i0}
+Dialogue: 0,0:11:38.55,0:11:40.67,BD DX,,0,0,0,,{\i1}Kin Seika, with her merchant's spirit,{\i0}
+Dialogue: 0,0:11:40.76,0:11:43.34,BD DX,,0,0,0,,{\i1}seeks to intentionally go for the seat\Nof secondary Maiden.{\i0}
+Dialogue: 0,0:11:43.55,0:11:48.64,BD DX,,0,0,0,,But excessive punishment will be\Nfrowned upon by the Eagle Eyes Captain.
+Dialogue: 0,0:11:50.14,0:11:53.85,BD DX,,0,0,0,,Such words from you, who approved\Nof banishment to an abandoned building.
+Dialogue: 0,0:11:54.10,0:11:56.07,BD DX,,0,0,0,,I am Gayou of the Kin clan.
+Dialogue: 0,0:11:56.57,0:11:59.44,BD DX,,0,0,0,,Starting tomorrow, I will give you\Na reward for providing me a report
+Dialogue: 0,0:11:59.53,0:12:03.32,BD DX,,0,0,0,,at this time of day\Non how Shu Keigetsu is doing.
+Dialogue: 0,0:12:08.24,0:12:11.33,BD DX,,0,0,0,,Or would you prefer this?
+Dialogue: 0,0:12:16.67,0:12:17.80,BD DX,,0,0,0,,Rice?
+Dialogue: 0,0:12:20.05,0:12:22.26,BD DX,,0,0,0,,I will have double this tomorrow.
+Dialogue: 0,0:12:22.88,0:12:24.39,BD DX,,0,0,0,,You will accept, yes?
+Dialogue: 0,0:12:27.30,0:12:30.14,BD DX,,0,0,0,,{\an8}{\i1}This isn't necessarily a bad thing.{\i0}
+Dialogue: 0,0:12:30.22,0:12:31.68,BD DX,,0,0,0,,{\an8}{\i1}It's so that I can survive.{\i0}
+Dialogue: 0,0:12:33.94,0:12:34.94,BD DX,,0,0,0,,Yes.
+Dialogue: 0,0:12:37.11,0:12:40.57,BD DX,,0,0,0,,{\i1}Surely by now, Shu Keigetsu\Nwill be surrounded by grass and insects,{\i0}
+Dialogue: 0,0:12:40.65,0:12:42.28,BD DX,,0,0,0,,{\i1}broken down in tears.{\i0}
+Dialogue: 0,0:12:42.95,0:12:44.95,BD DX,,0,0,0,,{\an8}{\i1}I recall being banished\Nto the garden one winter{\i0}
+Dialogue: 0,0:12:45.03,0:12:47.53,BD DX,,0,0,0,,{\an8}{\i1}after she said I had\Nan evil look in my eyes.{\i0}
+Dialogue: 0,0:12:51.41,0:12:53.79,BD DX,,0,0,0,,{\i1}If she rubs her face to the ground\Nand begs for forgiveness,{\i0}
+Dialogue: 0,0:12:53.87,0:12:55.29,BD DX,,0,0,0,,{\i1}I'll give her one bite.{\i0}
+Dialogue: 0,0:12:55.83,0:12:59.59,BD DX,,0,0,0,,{\i1}I'll make her pay\Nfor everything she's done to me until now.{\i0}
+Dialogue: 0,0:13:06.34,0:13:08.22,BD DX,,0,0,0,,Oh, welcome back.
+Dialogue: 0,0:13:08.30,0:13:10.51,BD DX,,0,0,0,,Leelee, you came back!
+Dialogue: 0,0:13:10.89,0:13:13.14,BD DX,,0,0,0,,I just finished frying the potatoes.
+Dialogue: 0,0:13:13.23,0:13:16.02,BD DX,,0,0,0,,I also sautéed some field mustard.
+Dialogue: 0,0:13:16.10,0:13:18.15,BD DX,,0,0,0,,Now let's eat while it's hot!
+Dialogue: 0,0:13:18.40,0:13:20.82,BD DX,,0,0,0,,-Huh?\N-And please take a look!
+Dialogue: 0,0:13:20.90,0:13:23.19,BD DX,,0,0,0,,I am halfway done\Nwith preparation of the fields.
+Dialogue: 0,0:13:23.28,0:13:27.03,BD DX,,0,0,0,,A vast variety of plants were mixed up,\Nso I sorted them by type.
+Dialogue: 0,0:13:27.11,0:13:29.28,BD DX,,0,0,0,,Potatoes, chives, gourds, and--
+Dialogue: 0,0:13:29.37,0:13:30.49,BD DX,,0,0,0,,Hold on a second!
+Dialogue: 0,0:13:30.58,0:13:33.37,BD DX,,0,0,0,,Why are potatoes and gourds\Ncoming out of an abandoned building?
+Dialogue: 0,0:13:33.58,0:13:35.46,BD DX,,0,0,0,,Did you use some forbidden magic\Nor something?
+Dialogue: 0,0:13:35.66,0:13:37.75,BD DX,,0,0,0,,Oh, Leelee.
+Dialogue: 0,0:13:37.83,0:13:40.63,BD DX,,0,0,0,,I cannot use any forbidden magic.
+Dialogue: 0,0:13:40.84,0:13:43.63,BD DX,,0,0,0,,It was just wonderfully good luck\Npiling up.
+Dialogue: 0,0:13:43.71,0:13:46.18,BD DX,,0,0,0,,This used to be a pantry, right?
+Dialogue: 0,0:13:46.26,0:13:49.43,BD DX,,0,0,0,,The abandoned foodstuff\Nhad secretly germinated here.
+Dialogue: 0,0:13:49.51,0:13:50.43,BD DX,,0,0,0,,What?
+Dialogue: 0,0:13:50.51,0:13:54.35,BD DX,,0,0,0,,After all, we are on the border of\Nthe Ran clan, who are servants of wood.
+Dialogue: 0,0:13:54.43,0:13:57.94,BD DX,,0,0,0,,Perhaps this area is filled\Nwith qi that nurtures plants.
+Dialogue: 0,0:13:58.02,0:14:00.61,BD DX,,0,0,0,,This really is like paradise.
+Dialogue: 0,0:14:00.69,0:14:03.07,BD DX,,0,0,0,,No way. I mean, the rumors say this place
+Dialogue: 0,0:14:03.15,0:14:05.40,BD DX,,0,0,0,,is where horrible fungi\Nand insects come from.
+Dialogue: 0,0:14:05.69,0:14:07.20,BD DX,,0,0,0,,Fungi! Right, fungi!
+Dialogue: 0,0:14:07.28,0:14:10.66,BD DX,,0,0,0,,The black smut spores\Nreally did a wonderful job!
+Dialogue: 0,0:14:10.74,0:14:11.74,BD DX,,0,0,0,,Take a look.
+Dialogue: 0,0:14:11.83,0:14:14.66,BD DX,,0,0,0,,The wild rice\Nhas turned into wonderful rice galls!
+Dialogue: 0,0:14:14.75,0:14:16.75,BD DX,,0,0,0,,I am so thankful for them!
+Dialogue: 0,0:14:16.83,0:14:20.38,BD DX,,0,0,0,,Oh, I am blessed with an opportunity
+Dialogue: 0,0:14:20.46,0:14:22.88,BD DX,,0,0,0,,to put all of the knowledge I have\Nbuilt up through books into action.
+Dialogue: 0,0:14:22.96,0:14:25.09,BD DX,,0,0,0,,I am such a fortunate person!
+Dialogue: 0,0:14:25.38,0:14:27.76,BD DX,,0,0,0,,Oh, bottomless stamina...
+Dialogue: 0,0:14:28.55,0:14:29.47,BD DX,,0,0,0,,Potatoes!
+Dialogue: 0,0:14:29.55,0:14:30.80,BD DX,,0,0,0,,Let's hurry up and eat!
+Dialogue: 0,0:14:30.89,0:14:32.89,BD DX,,0,0,0,,It has always been a dream of mine
+Dialogue: 0,0:14:32.97,0:14:35.60,BD DX,,0,0,0,,to eat food with an abundance of oil\Nsprinkled with salt,
+Dialogue: 0,0:14:35.68,0:14:37.81,BD DX,,0,0,0,,and not have to worry about heartburn!
+Dialogue: 0,0:14:42.48,0:14:45.69,BD DX,,0,0,0,,Wait, how did you get a hold\Nof salt and oil?
+Dialogue: 0,0:14:45.69,0:14:49.70,BD DX,,0,0,0,,{\an8}Oh, I received them from the kindness\Nof the Eagle Eyes Captain, among others.
+Dialogue: 0,0:14:49.70,0:14:50.70,BD DX,,0,0,0,,Seriously?
+Dialogue: 0,0:14:50.87,0:14:53.12,BD DX,,0,0,0,,Yes. As for salt, I was thinking
+Dialogue: 0,0:14:53.20,0:14:55.95,BD DX,,0,0,0,,I could just use my tears\Nas a condiment if need be.
+Dialogue: 0,0:14:56.29,0:14:58.08,BD DX,,0,0,0,,But I really wanted\Nto sprinkle it on lavishly,
+Dialogue: 0,0:14:58.16,0:15:00.08,BD DX,,0,0,0,,so it was the right choice to indulge!
+Dialogue: 0,0:15:00.25,0:15:02.84,BD DX,,0,0,0,,Wait, where did you come up\Nwith such a train of thought?
+Dialogue: 0,0:15:03.50,0:15:05.80,BD DX,,0,0,0,,{\i1}What's gotten into her?{\i0}
+Dialogue: 0,0:15:05.88,0:15:07.84,BD DX,,0,0,0,,{\i1}She's like a completely different person.{\i0}
+Dialogue: 0,0:15:08.80,0:15:11.68,BD DX,,0,0,0,,You really are Shu Keigetsu, right?
+Dialogue: 0,0:15:12.18,0:15:15.18,BD DX,,0,0,0,,If you've got something\Nup your sleeve, spill it right now.
+Dialogue: 0,0:15:17.22,0:15:19.64,BD DX,,0,0,0,,As of the night\Nof the Double Sevens Festival,
+Dialogue: 0,0:15:19.73,0:15:22.73,BD DX,,0,0,0,,I have become\Na completely different person.
+Dialogue: 0,0:15:23.23,0:15:27.86,BD DX,,0,0,0,,It seems that is all I can say\Nfrom my own mouth at present time.
+Dialogue: 0,0:15:29.90,0:15:31.11,BD DX,,0,0,0,,Now, Leelee...
+Dialogue: 0,0:15:31.20,0:15:32.20,BD DX,,0,0,0,,say, "Ahh."
+Dialogue: 0,0:15:42.50,0:15:44.04,BD DX,,0,0,0,,I am overjoyed!
+Dialogue: 0,0:15:44.13,0:15:45.21,BD DX,,0,0,0,,Such happiness.
+Dialogue: 0,0:15:45.29,0:15:48.96,BD DX,,0,0,0,,Even if I keep smelling oil,\NI don't feel faint!
+Dialogue: 0,0:15:49.05,0:15:50.51,BD DX,,0,0,0,,-I could eat forever!\N{\i1}-She's powerful.{\i0}
+Dialogue: 0,0:15:50.93,0:15:52.30,BD DX,,0,0,0,,{\i1}-Can I...{\i0}\N-And I can drink!
+Dialogue: 0,0:15:52.38,0:15:56.31,BD DX,,0,0,0,,{\i1}Will I be able\Nto push this girl to despair?{\i0}
+Dialogue: 0,0:16:01.89,0:16:05.15,BD DX,Sign,0,0,0,,{\an8}KOU CLAN MAIDEN - KOU REIRIN\N(SOUL OF KEIGETSU)
+Dialogue: 0,0:16:04.23,0:16:08.15,BD DX,,0,0,0,,Lady Reirin,\Nis there something you need right now?
+Dialogue: 0,0:16:08.65,0:16:12.24,BD DX,,0,0,0,,No, please don't worry about me.
+Dialogue: 0,0:16:12.74,0:16:15.99,BD DX,,0,0,0,,Lady Reirin, your perseverance\Nis a wonderful virtue.
+Dialogue: 0,0:16:16.08,0:16:19.25,BD DX,,0,0,0,,But if you choose not to rely on us,\Nit makes us feel rather dejected.
+Dialogue: 0,0:16:19.33,0:16:23.54,BD DX,,0,0,0,,Please let us know of even the most\Nmarginal of changes without hesitation.
+Dialogue: 0,0:16:23.62,0:16:27.17,BD DX,,0,0,0,,Oh, all of you worry so much.
+Dialogue: 0,0:16:27.25,0:16:29.34,BD DX,,0,0,0,,I'm fine. Please stand down.
+Dialogue: 0,0:16:33.22,0:16:36.51,BD DX,,0,0,0,,{\i1}How nice it feels\Nto be spoiled and worried about.{\i0}
+Dialogue: 0,0:16:36.60,0:16:38.47,BD DX,,0,0,0,,{\i1}This is exactly what I had been seeking.{\i0}
+Dialogue: 0,0:16:38.97,0:16:41.89,BD DX,,0,0,0,,{\i1}When one is cherished this much,{\i0}
+Dialogue: 0,0:16:41.98,0:16:49.48,BD DX,,0,0,0,,{\i1}even a sewer rat will become\Nan elegant, delicate butterfly.{\i0}
+Dialogue: 0,0:16:49.86,0:16:53.28,BD DX,,0,0,0,,{\i1}It was an impossibility to begin with.{\i0}
+Dialogue: 0,0:16:53.36,0:16:56.16,BD DX,,0,0,0,,{\i1}A girl from the countryside\Nthat can do a bit of forbidden magic{\i0}
+Dialogue: 0,0:16:56.24,0:16:59.62,BD DX,,0,0,0,,{\i1}trying to curry the favor\Nof His Highness in the Maiden Court.{\i0}
+Dialogue: 0,0:17:00.62,0:17:02.41,BD DX,,0,0,0,,{\i1}My father was a fallen sorcerer{\i0}
+Dialogue: 0,0:17:02.50,0:17:05.08,BD DX,,0,0,0,,{\i1}and my mother was of the lowest rank\Namong the Shu clan.{\i0}
+Dialogue: 0,0:17:05.17,0:17:08.25,BD DX,,0,0,0,,{\i1}One year ago, their debts piled up,\Nand they committed suicide.{\i0}
+Dialogue: 0,0:17:09.17,0:17:11.63,BD DX,,0,0,0,,{\i1}So I became a maid for the main Shu clan.{\i0}
+Dialogue: 0,0:17:13.38,0:17:15.51,BD DX,,0,0,0,,{\i1}You lost your parents\Nat such an early age.{\i0}
+Dialogue: 0,0:17:15.89,0:17:17.72,BD DX,,0,0,0,,{\i1}That is so pitiful.{\i0}
+Dialogue: 0,0:17:19.10,0:17:22.77,BD DX,,0,0,0,,{\i1}Noble Consort Shu, who had been\Nvisiting her family home by coincidence,{\i0}
+Dialogue: 0,0:17:22.85,0:17:26.35,BD DX,,0,0,0,,{\i1}took to me at first sight\Nand assigned me to be her Maiden.{\i0}
+Dialogue: 0,0:17:26.44,0:17:29.77,BD DX,,0,0,0,,{\i1}But I had no aptitude.\NI was chosen only out of pity.{\i0}
+Dialogue: 0,0:17:29.86,0:17:32.44,BD DX,,0,0,0,,{\i1}That was where I ran out of luck.{\i0}
+Dialogue: 0,0:17:32.53,0:17:36.74,BD DX,,0,0,0,,{\i1}The court ladies mocked me,\Nand the Noble Consort could only fret.{\i0}
+Dialogue: 0,0:17:36.82,0:17:40.28,BD DX,,0,0,0,,{\i1}The other Maidens in the Maiden Court\Nsimply ridiculed me.{\i0}
+Dialogue: 0,0:17:40.66,0:17:43.45,BD DX,,0,0,0,,{\i1}But that girl was different.{\i0}
+Dialogue: 0,0:17:44.46,0:17:49.00,BD DX,,0,0,0,,{\i1}She was beautiful, intelligent,\Nand had the perfect personality.{\i0}
+Dialogue: 0,0:17:49.50,0:17:51.42,BD DX,,0,0,0,,{\i1}That's why I hated her.{\i0}
+Dialogue: 0,0:17:51.50,0:17:53.55,BD DX,,0,0,0,,{\i1}It makes me want to vomit.{\i0}
+Dialogue: 0,0:17:54.47,0:17:55.47,BD DX,,0,0,0,,Lady Reirin.
+Dialogue: 0,0:17:56.22,0:17:58.30,BD DX,,0,0,0,,His Highness is here to see you.
+Dialogue: 0,0:17:59.72,0:18:03.43,BD DX,,0,0,0,,{\i1}Kou Reirin. This is all your fault.{\i0}
+Dialogue: 0,0:18:03.89,0:18:07.39,BD DX,,0,0,0,,{\i1}I will take His Highness from you.{\i0}
+Dialogue: 0,0:18:08.73,0:18:13.19,BD DX,,0,0,0,,Reirin, I apologize for making you\Nfeel uneasy during the Lion's Judgment.
+Dialogue: 0,0:18:13.48,0:18:16.45,BD DX,,0,0,0,,I am all right.
+Dialogue: 0,0:18:16.53,0:18:22.08,BD DX,,0,0,0,,It simply pains my heart\Nthat I make you worry, dear cousin.
+Dialogue: 0,0:18:23.62,0:18:25.96,BD DX,,0,0,0,,It's unusual for you\Nto fawn on me like this.
+Dialogue: 0,0:18:26.54,0:18:30.04,BD DX,,0,0,0,,{\i1}Oh, how good this feels.{\i0}
+Dialogue: 0,0:18:31.29,0:18:35.46,BD DX,,0,0,0,,{\i1}Now that I think about it,\NI'm glad that girl didn't die.{\i0}
+Dialogue: 0,0:18:35.97,0:18:38.18,BD DX,,0,0,0,,{\i1}In the unlikely possibility\Nthat the switch is exposed,{\i0}
+Dialogue: 0,0:18:38.26,0:18:39.97,BD DX,,0,0,0,,{\i1}I can just take her hostage.{\i0}
+Dialogue: 0,0:18:40.05,0:18:43.47,BD DX,,0,0,0,,{\i1}After all, I'm the only one that can\Nreturn us to our original bodies.{\i0}
+Dialogue: 0,0:18:44.47,0:18:47.69,BD DX,,0,0,0,,{\i1}In any case, this body is way too frail.{\i0}
+Dialogue: 0,0:18:48.19,0:18:49.98,BD DX,,0,0,0,,Pardon me, Lady Reirin.
+Dialogue: 0,0:18:49.98,0:18:52.23,BD DX,Sign,0,0,0,,{\an8}REIRIN'S HEAD COURT LADY\NKOU TOUSETSU
+Dialogue: 0,0:18:50.10,0:18:52.23,BD DX,,0,0,0,,Is something the matter, Tousetsu?
+Dialogue: 0,0:18:52.52,0:18:56.94,BD DX,,0,0,0,,{\an8}Yes. It has been two days\Nsince your fever has started.
+Dialogue: 0,0:18:57.03,0:18:58.74,BD DX,,0,0,0,,{\an8}So I brought you your training items.
+Dialogue: 0,0:18:59.24,0:19:00.24,BD DX,,0,0,0,,{\an8}Huh?
+Dialogue: 0,0:19:00.41,0:19:03.58,BD DX,,0,0,0,,{\an8}Embroidering all night,\Nhandwriting 100 sutras,
+Dialogue: 0,0:19:03.66,0:19:06.58,BD DX,,0,0,0,,{\an8}dance lessons,\Nmusical instrument lessons...
+Dialogue: 0,0:19:06.66,0:19:08.75,BD DX,,0,0,0,,{\an8}or training basic stamina.
+Dialogue: 0,0:19:09.00,0:19:10.92,BD DX,,0,0,0,,{\an8}What will it be tonight?
+Dialogue: 0,0:19:11.79,0:19:15.92,BD DX,,0,0,0,,{\an8}{\i1}What is she talking about?\NShe's talking to a sick person!{\i0}
+Dialogue: 0,0:19:16.09,0:19:21.59,BD DX,,0,0,0,,"When my life is in peril is when my body\Nmost greedily gains knowledge and skill."
+Dialogue: 0,0:19:21.68,0:19:26.43,BD DX,,0,0,0,,"When my head is hazy with a fever\Nis when I can see beyond my limits."
+Dialogue: 0,0:19:26.89,0:19:31.31,BD DX,,0,0,0,,Lady Reirin, you casually said so\Nthe first time I was nursing you.
+Dialogue: 0,0:19:31.40,0:19:33.90,BD DX,,0,0,0,,Each time I remember it,\NI feel shivers all over my body!
+Dialogue: 0,0:19:35.11,0:19:37.78,BD DX,,0,0,0,,And Lady Reirin,\Nyou inherited the Kou blood
+Dialogue: 0,0:19:37.86,0:19:40.82,BD DX,,0,0,0,,that reveres effort\Nmore than anyone else.
+Dialogue: 0,0:19:41.07,0:19:45.33,BD DX,,0,0,0,,I, Tousetsu, am personally proud\Nthat I can accompany you on your training,
+Dialogue: 0,0:19:45.41,0:19:47.79,BD DX,,0,0,0,,especially now that the Empress\Njoins in on the action.
+Dialogue: 0,0:19:47.87,0:19:49.71,BD DX,,0,0,0,,Now, as you please.
+Dialogue: 0,0:19:50.71,0:19:53.25,BD DX,,0,0,0,,T-Tousetsu? You know...
+Dialogue: 0,0:19:53.33,0:19:56.59,BD DX,,0,0,0,,I have a fever that makes it painful\Nfor me to even sit up.
+Dialogue: 0,0:19:56.67,0:19:59.34,BD DX,,0,0,0,,Then you are in perfect condition.
+Dialogue: 0,0:20:00.26,0:20:02.97,BD DX,,0,0,0,,I-I feel nauseous.
+Dialogue: 0,0:20:03.05,0:20:05.47,BD DX,,0,0,0,,I think the fever is getting even worse.
+Dialogue: 0,0:20:05.55,0:20:08.39,BD DX,,0,0,0,,It looks like you will reach\Nheights never seen before, then!
+Dialogue: 0,0:20:08.47,0:20:10.06,BD DX,,0,0,0,,-What?\N-I will bring a washtub.
+Dialogue: 0,0:20:10.14,0:20:11.14,BD DX,,0,0,0,,Oh, no!
+Dialogue: 0,0:20:11.27,0:20:12.39,BD DX,,0,0,0,,This is....
+Dialogue: 0,0:20:13.31,0:20:17.15,BD DX,,0,0,0,,an illness that may spread, I believe.
+Dialogue: 0,0:20:17.23,0:20:18.61,BD DX,,0,0,0,,Please step back.
+Dialogue: 0,0:20:18.69,0:20:20.07,BD DX,,0,0,0,,Right now.
+Dialogue: 0,0:20:20.86,0:20:23.07,BD DX,,0,0,0,,I would not be able to forgive myself
+Dialogue: 0,0:20:23.16,0:20:27.70,BD DX,,0,0,0,,if something were ever\Nto happen to you dear people.
+Dialogue: 0,0:20:27.87,0:20:29.25,BD DX,,0,0,0,,Lady Reirin.
+Dialogue: 0,0:20:30.00,0:20:33.87,BD DX,,0,0,0,,Oh, my, to think your physical condition\Nwas this terrible.
+Dialogue: 0,0:20:33.96,0:20:35.88,BD DX,,0,0,0,,I will call for the apothecary right away!
+Dialogue: 0,0:20:35.96,0:20:37.84,BD DX,,0,0,0,,Please hold yourself steady!
+Dialogue: 0,0:20:37.92,0:20:39.71,BD DX,,0,0,0,,We are right here with you!
+Dialogue: 0,0:20:40.21,0:20:44.59,BD DX,,0,0,0,,{\i1}These guys are insane.\NDefinitely insane.{\i0}
+Dialogue: 0,0:20:44.89,0:20:50.64,BD DX,,0,0,0,,{\i1}Wasn't Kou Reirin a delicate butterfly\Nprotected and spoiled by everyone?{\i0}
+Dialogue: 0,0:20:50.72,0:20:53.56,BD DX,,0,0,0,,{\i1}Can it be that everyone is overprotective{\i0}
+Dialogue: 0,0:20:53.64,0:20:56.81,BD DX,,0,0,0,,{\i1}because she physically overexerts herself\Nto the brink of death,{\i0}
+Dialogue: 0,0:20:56.90,0:20:59.73,BD DX,,0,0,0,,{\i1}forcing them all to be really worried?{\i0}
+Dialogue: 0,0:21:05.45,0:21:06.74,BD DX,,0,0,0,,{\i1}I can...{\i0}
+Dialogue: 0,0:21:07.37,0:21:11.29,BD DX,,0,0,0,,{\i1}keep going in this body, right?{\i0}
+Dialogue: 0,0:21:23.92,0:21:25.68,BD DX,,0,0,0,,Oh.
+Dialogue: 0,0:21:26.76,0:21:28.51,BD DX,,0,0,0,,What are you doing here?
+Dialogue: 0,0:21:28.60,0:21:31.18,BD DX,,0,0,0,,There isn't a place\Nfor rats to sleep here anymore.
+Dialogue: 0,0:21:37.86,0:21:39.69,BD DX,,0,0,0,,{\i1}I'm so frustrated.{\i0}
+Dialogue: 0,0:21:41.94,0:21:45.15,BD DX,,0,0,0,,{\i1}I shall grant you\Na garment of silver ermine.{\i0}
+Dialogue: 0,0:21:45.91,0:21:50.62,BD DX,,0,0,0,,{\i1}I would like you to torture\Nthe one you serve, Shu Keigetsu.{\i0}
+Dialogue: 0,0:21:52.33,0:21:55.92,BD DX,,0,0,0,,{\i1}I'll do anything\Nif it means I can get out of this place!{\i0}
+
