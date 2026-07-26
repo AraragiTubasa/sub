@@ -10,16 +10,6 @@ Update Details: v6 - avoided end credits
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: CR_ThoughIAmAnInep_S1.0E1_TIVSIM0001_378891_video_ja-jp_J10019898.mp4
-Video File: CR_ThoughIAmAnInep_S1.0E1_TIVSIM0001_378891_video_ja-jp_J10019898.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 330
-Video Position: 28441
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 声明,微软雅黑,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
