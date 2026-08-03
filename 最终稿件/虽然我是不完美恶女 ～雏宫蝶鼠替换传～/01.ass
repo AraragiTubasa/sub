@@ -16,15 +16,14 @@ Video File: A:/a1/Futsutsuka Na Akujo Dewa Gozaimasu Ga - 01 (1080P) [C8195aba].
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 1
-Video Position: 543
+Active Line: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Dream Han Sans J W20,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.4,2,10,10,20,1
 Style: 对白 中文,梦源黑体 SC W20,75,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,0,0,0,0,100,100,1,0,1,1.4,0,2,10,10,60,1
 Style: 场面文本,梦源黑体 SC W20,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,7,10,10,10,1
-Style: 声明,梦源宋体 CN,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,0.5,8,10,10,10,1
+Style: 声明,梦源宋体 CN,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.8,0.5,8,10,10,10,1
 Style: 注释,梦源黑体 SC W20,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,7,20,20,20,1
 Style: 歌词 日语,Dream Han Serif JP,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.5,7,50,10,70,1
 Style: 歌词 中文,梦源宋体 CN,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0.3,7,50,10,20,1
@@ -38,6 +37,8 @@ Style: 歌词 日语 ED2,Dream Han Serif JP,60,&H00FFFFFF,&H000000FF,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.03,对白 日语,,0,0,0,,part1
+Dialogue: 0,0:00:00.00,0:00:05.34,声明,,0,0,0,,{\b0}本字幕由{\b1}　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作   仅供学习与交流使用 禁止任何形式的商业用途\N本组字幕均遵循{\b1\c&H00FFFF&} CC BY-NC-SA 4.0{\b0\c&HFFFFFF&} 协议
+Dialogue: 0,0:00:00.00,0:00:05.34,声明,,0,0,0,,{\an2\c&H00FFFF&\b1}翻译{\b0\c&HFFFFFF&} AuroraAkie 饺子 爱吃苹果的赫萝 {\b1\c&H00FFFF&} 时轴 {\b0\c&HFFFFFF&} aoch1zaq {\b1\c&H00FFFF&}\N校对{\b0\c&HFFFFFF&} Lomenot 饺子 {\b1\c&H00FFFF&}后期&监制{\b0\c&HFFFFFF&} Lomenot {\b1\c&H00FFFF&}压制{\b0\c&HFFFFFF&} Timq
 Dialogue: 0,0:00:22.61,0:00:25.25,右侧竖屏幕字,,0,0,0,,{\pos(1788,464)}后宫内 黄麟宫
 Dialogue: 0,0:00:34.33,0:00:36.14,右侧竖屏幕字,,0,0,0,,{\pos(1744,529)}黄家雏女 黄玲琳
 Dialogue: 0,0:01:20.60,0:01:22.81,右侧竖屏幕字,,0,0,0,,{\fs63\pos(1817,640)}后宫内 雏宫 乞巧楼
