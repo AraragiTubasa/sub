@@ -15,11 +15,11 @@ LayoutResY: 360
 
 [Aegisub Project Garbage]
 Last Style Storage: 不才恶女
-Audio File: A:/[TSDM] Mushoku Tensei [01v2][pre][1080P][HEVC 10bit].mp4
-Video File: A:/[TSDM] Mushoku Tensei [01v2][pre][1080P][HEVC 10bit].mp4
+Audio File: A:/[SubsPlease] Mushoku Tensei S3 - 01 (1080p) [C3A7F258].mkv
+Video File: A:/[SubsPlease] Mushoku Tensei S3 - 01 (1080p) [C3A7F258].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.625000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,7 +30,7 @@ Style: 声明,梦源黑体 CN W20,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Style: 对白 日语 上,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,28,1
 Style: 对白 中文 上,梦源黑体 SC W20,68,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,0,0,0,0,100,100,1,0,1,1.4,0,8,10,10,60,1
 Style: 注释,梦源黑体 SC W20,40,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,1,0,1,1.7,0,7,30,30,30,1
-Style: 场面文本,梦源黑体 SC W20,50,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: 场面文本,梦源宋体 CN,50,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: 艾莉丝角色曲 中文,梦源宋体 CN,70,&H00FFFFFF,&H00FFFFFF,&H00404CB2,&H00000000,-1,0,0,0,100,100,3,0,1,2,0,2,20,20,87,1
 Style: 艾莉丝角色曲 日语,Dream Han Serif JP,65,&H00FFFFFF,&HFFFFFFFF,&H00404CB2,&H00000000,-1,0,0,0,100,100,3,0,1,2,0,2,20,20,25,1
 Style: 第一集ED 中文,梦源宋体 CN,50,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.5,7,25,10,20,1
@@ -41,7 +41,7 @@ Style: 本集标题,方正舒体_GBK,120,&H00FFFFFF,&H000000FF,&H00000000,&H0000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.55,声明,,0,0,0,,{\b0}本字幕由{\b1}　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作   仅供学习与交流使用 禁止任何形式的商业用途\N本组字幕均遵循{\b1\c&H00FFFF&} CC BY-NC-SA 4.0{\b0\c&HFFFFFF&} 协议
+Dialogue: 0,0:00:00.00,0:00:03.55,声明,,0,0,0,,本字幕由　{\c&H00FFFF&}TSDM字幕组{\c&HFFFFFF&}　制作   仅供学习与交流使用 禁止任何形式的商业用途\N本组字幕均遵循{\c&H00FFFF&} CC BY-NC-SA 4.0{\c&HFFFFFF&} 协议
 Comment: 0,0:00:26.12,0:00:29.12,标题,,0,0,0,,Part 1
 Dialogue: 1,0:00:29.43,0:00:33.81,对白 中文,艾莉丝（内心）,0,0,0,,我15岁生日收到的礼物 是鲁迪乌斯
 Dialogue: 0,0:00:29.43,0:00:33.81,对白 日语,艾莉丝（内心）,0,0,0,,15歳の誕生日の贈り物に ルーデウスをもらった
@@ -521,9 +521,9 @@ Dialogue: 1,0:21:50.08,0:21:53.50,对白 中文,奥贝尔,0,0,0,,可否与在下
 Dialogue: 0,0:21:50.08,0:21:53.50,对白 日语,奥贝尔,0,0,0,,もう一試合 よろしいですかな
 Dialogue: 1,0:21:55.93,0:21:57.25,对白 中文,艾莉丝,0,0,0,,正合我意
 Dialogue: 0,0:21:55.93,0:21:57.25,对白 日语,艾莉丝,0,0,0,,当然よ
-Dialogue: 1,0:22:01.89,0:22:04.96,本集标题,文本,0,0,0,,{\pos(795.2,384.8)}第一集
-Dialogue: 1,0:22:01.89,0:22:04.96,本集标题,文本,0,0,0,,{\fs180\pos(496,521.6)}燃烧吧，狂犬
-Dialogue: 0,0:22:01.89,0:22:04.96,标题背景,文本,0,0,0,,{\p1\c&010001&\pos(1,1)\clip(526.4,313.6,1384,748.8)}m 0 0 l 1920 0 l 1920 1080 l 0 1080
+Dialogue: 1,0:22:01.97,0:22:05.05,本集标题,文本,0,0,0,,{\pos(795.2,384.8)}第一集
+Dialogue: 1,0:22:01.97,0:22:05.05,本集标题,文本,0,0,0,,{\fs180\pos(496,521.6)}燃烧吧，狂犬
+Dialogue: 0,0:22:01.97,0:22:05.05,标题背景,文本,0,0,0,,{\p1\c&010001&\pos(1,1)\clip(526.4,313.6,1384,748.8)}m 0 0 l 1920 0 l 1920 1080 l 0 1080
 Dialogue: 3,0:22:19.50,0:22:28.32,第一集ED 日语,ED,0,0,0,,{\kf27}{\kf112}触れたら{\kf63}弾け{\kf127}て{\kf38} {\kf81}消えそう{\kf120}な{\kf29} \N{\kf141}泡のよう{\kf19}な{\kf125}愛に
 Dialogue: 3,0:22:28.32,0:22:37.57,第一集ED 日语,ED,0,0,0,,{\kf50}{\kf163}包まれていた{\kf24}ま{\kf155}ま\N{\kf70}忘れ{\kf146}て {\kf147}しまいそう{\kf16}な{\kf154}朝に
 Dialogue: 3,0:22:37.57,0:22:45.77,第一集ED 日语,ED,0,0,0,,{\kf211}いつまでも\N{\kf50}想い{\kf187}続けられるよう{\kf142}な\N{\kf66}日々{\kf37}を{\kf76}捧{\kf51}ぐ
