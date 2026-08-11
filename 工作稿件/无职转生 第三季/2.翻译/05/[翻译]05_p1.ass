@@ -13,17 +13,6 @@ YCbCr Matrix: TV.601
 LayoutResX: 640
 LayoutResY: 360
 
-[Aegisub Project Garbage]
-Last Style Storage: 书虫
-Audio File: Mushoku Tensei S3 05 代理.mp4
-Video File: Mushoku Tensei S3 05 代理.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 216
-Active Line: 221
-Video Position: 12004
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Text - JP,Dream Han Sans J W20,105,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,2,30,30,75,1
