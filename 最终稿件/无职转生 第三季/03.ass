@@ -20,14 +20,15 @@ Video File: A:/a1/03代理.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 33927
+Active Line: 2
+Video Position: 33836
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,10,10,30,1
 Style: 对白 中文,梦源黑体 SC W20,70,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,0,0,0,0,100,100,1,0,1,1.4,0,2,10,10,68,1
 Style: 标题,梦源宋体 CN,120,&H00111848,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,20,20,20,1
-Style: 声明,梦源宋体 CN,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.6,0.2,8,10,10,10,1
+Style: 声明,梦源宋体 CN,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.2,8,10,10,10,1
 Style: 对白 日语 上,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,10,10,30,1
 Style: 对白 中文 上,梦源黑体 SC W20,68,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,0,0,0,0,100,100,1,0,1,1.4,0,8,10,10,68,1
 Style: 注释,梦源黑体 SC W20,40,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,1,0,1,1.7,0,7,30,30,30,1
@@ -49,7 +50,7 @@ Style: 对白 日语 - 洛琪希,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:23:35.01,0:23:40.09,下集标题,标题,0,0,0,,{\an8\fscx45\fscy45\pos(955,685)}下集
 Dialogue: 0,0:23:35.01,0:23:40.09,下集标题,标题,0,0,0,,{\fscx80\c&H0D3ACC&\fscy80\1a&Hff&\t(600,2000,\1a&H00&)\t(1000,1500,\c&H5ECAFF&)\t(1500,2600,\c&H031149&)\an8\pos(960,734)\fs200}水王级魔术师
-Dialogue: 3,0:23:31.24,0:23:35.01,声明,ED,0,0,0,,翻译：tyounai 饺子 R.  时轴：andreo  校对：阿没歪诶 后期&监制：Lomenot  压制：Timq
+Dialogue: 3,0:23:31.24,0:23:35.01,声明,ED,0,0,0,,翻译：tyounai AuroraAkie 咏  时轴：andreo  校对：阿没歪诶 后期&监制：Lomenot  压制：Timq
 Dialogue: 1,0:00:00.56,0:00:03.98,声明,Logo,0,0,0,,{\pos(955,969)}本字幕由　{\c&H00FFFF&}TSDM字幕组{\c&HFFFFFF&}　制作   仅供学习与交流使用 禁止任何形式的商业用途\N本组字幕均遵循{\c&H00FFFF&} CC BY-NC-SA 4.0{\c&HFFFFFF&} 协议
 Dialogue: 1,0:10:12.05,0:10:13.12,对白 中文,七星,0,0,0,,早上好
 Dialogue: 1,0:10:16.28,0:10:17.55,对白 中文,七星,0,0,0,,没事的
