@@ -14,8 +14,8 @@ ScaledBorderAndShadow: no
 
 [Aegisub Project Garbage]
 Last Style Storage: 恋死
-Scroll Position: 1721
-Active Line: 1773
+Scroll Position: 366
+Active Line: 371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -243,13 +243,47 @@ Dialogue: 1,0:02:47.56,0:02:54.48,OP日,,0,0,0,fx,{\fad(300,300)}僕は 僕は �
 Dialogue: 0,0:02:47.56,0:02:54.48,OP日,,0,0,0,fx,{\bord1\blur18\fad(300,300)}僕は 僕は 幸せものだ
 Dialogue: 1,0:02:47.56,0:02:54.48,OP中,,0,0,0,fx,{\fad(300,300)}我啊 我啊 是个幸福的人
 Dialogue: 0,0:02:47.56,0:02:54.48,OP中,,0,0,0,fx,{\bord1\blur18\fad(300,300)}我啊 我啊 是个幸福的人
-Dialogue: 1,0:03:04.25,0:03:04.29,Screen,,0,0,0,,{\fn@方正达利体简繁 Heavy\fs90\c&HEFEEB5&\bord2\3c&HD1B777&\alphaBF\frz294.1\pos(428.58,684)}哈~
-Dialogue: 0,0:03:04.29,0:03:04.33,Screen,,0,0,0,,{\fn@方正达利体简繁 Heavy\fs95\c&HEFEEB5&\bord2\3c&HD1B777&\alpha99\frz290.3\pos(387.43,642.86)}哈~
-Dialogue: 0,0:03:04.33,0:03:04.37,Screen,,0,0,0,,{\fn@方正达利体简繁 Heavy\fs103\c&HEFEEB5&\bord2\3c&HD1B777&\alpha30\frz286.9\pos(348.58,616.57)}哈~
-Dialogue: 0,0:03:04.37,0:03:04.41,Screen,,0,0,0,,{\fn@方正达利体简繁 Heavy\fs105\c&HEFEEB5&\bord2\3c&HD1B777&\alpha00\frz284.8\pos(344.01,616.57)}哈~
-Dialogue: 0,0:03:04.41,0:03:04.46,Screen,,0,0,0,,{\fn@方正达利体简繁 Heavy\fs105\c&HEFEEB5&\bord2\3c&HD1B777&\alpha00\frz283.3\pos(341.72,616.57)}哈~
-Dialogue: 0,0:03:04.46,0:03:04.50,Screen,,0,0,0,,{\fn@方正达利体简繁 Heavy\fs106\c&HEFEEB5&\bord2\3c&HD1B777&\alpha00\frz282\pos(340.58,616.57)}哈~
-Dialogue: 0,0:03:04.50,0:03:05.96,Screen,,0,0,0,,{\fn@方正达利体简繁 Heavy\fs106\c&HEFEEB5&\bord2\3c&HD1B777&\alpha00\frz282\pos(340.58,616.57)}哈~
+Dialogue: 0,0:03:04.26,0:03:04.30,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx81.54\fscy81.54\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&HBF&\frz298.44\pos(452.63,717.06)}哈~
+Dialogue: 0,0:03:04.30,0:03:04.35,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx90.15\fscy90.15\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H70&\frz291.40\pos(403.68,676.14)}哈~
+Dialogue: 0,0:03:04.35,0:03:04.39,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx96.08\fscy96.08\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H14&\frz285.69\pos(365.80,641.36)}哈~
+Dialogue: 0,0:03:04.39,0:03:04.43,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx96.67\fscy96.67\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz285.18\pos(362.15,638.00)}哈~
+Dialogue: 0,0:03:04.43,0:03:04.47,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx97.08\fscy97.08\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz284.71\pos(359.32,635.15)}哈~
+Dialogue: 0,0:03:04.47,0:03:04.51,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx97.43\fscy97.43\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz284.40\pos(357.01,632.95)}哈~
+Dialogue: 0,0:03:04.51,0:03:04.55,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx97.77\fscy97.77\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz284.12\pos(354.96,631.12)}哈~
+Dialogue: 0,0:03:04.55,0:03:04.60,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx98.05\fscy98.05\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz283.87\pos(353.29,629.53)}哈~
+Dialogue: 0,0:03:04.60,0:03:04.64,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx98.25\fscy98.25\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz283.63\pos(351.76,628.06)}哈~
+Dialogue: 0,0:03:04.64,0:03:04.68,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx98.48\fscy98.48\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz283.44\pos(350.50,626.79)}哈~
+Dialogue: 0,0:03:04.68,0:03:04.72,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx98.67\fscy98.67\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz283.26\pos(349.28,625.69)}哈~
+Dialogue: 0,0:03:04.72,0:03:04.76,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx98.84\fscy98.84\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz283.13\pos(348.27,624.73)}哈~
+Dialogue: 0,0:03:04.76,0:03:04.80,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx98.96\fscy98.96\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.98\pos(347.37,623.75)}哈~
+Dialogue: 0,0:03:04.80,0:03:04.85,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.09\fscy99.09\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.87\pos(346.50,622.98)}哈~
+Dialogue: 0,0:03:04.85,0:03:04.89,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.22\fscy99.22\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.77\pos(345.81,622.31)}哈~
+Dialogue: 0,0:03:04.89,0:03:04.93,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.32\fscy99.32\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.67\pos(345.12,621.56)}哈~
+Dialogue: 0,0:03:04.93,0:03:04.97,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.40\fscy99.40\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.59\pos(344.53,620.95)}哈~
+Dialogue: 0,0:03:04.97,0:03:05.01,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.50\fscy99.50\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.50\pos(343.96,620.42)}哈~
+Dialogue: 0,0:03:05.01,0:03:05.05,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.57\fscy99.57\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.44\pos(343.47,619.96)}哈~
+Dialogue: 0,0:03:05.05,0:03:05.10,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.63\fscy99.63\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.38\pos(343.06,619.48)}哈~
+Dialogue: 0,0:03:05.10,0:03:05.14,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.70\fscy99.70\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.32\pos(342.69,619.11)}哈~
+Dialogue: 0,0:03:05.14,0:03:05.18,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.74\fscy99.74\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.28\pos(342.35,618.77)}哈~
+Dialogue: 0,0:03:05.18,0:03:05.22,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.79\fscy99.79\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.22\pos(342.06,618.41)}哈~
+Dialogue: 0,0:03:05.22,0:03:05.26,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.82\fscy99.82\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.19\pos(341.79,618.09)}哈~
+Dialogue: 0,0:03:05.26,0:03:05.31,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.86\fscy99.86\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.15\pos(341.54,617.84)}哈~
+Dialogue: 0,0:03:05.31,0:03:05.35,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.88\fscy99.88\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.13\pos(341.34,617.62)}哈~
+Dialogue: 0,0:03:05.35,0:03:05.39,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.90\fscy99.90\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.10\pos(341.17,617.40)}哈~
+Dialogue: 0,0:03:05.39,0:03:05.43,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.91\fscy99.91\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.08\pos(341.05,617.22)}哈~
+Dialogue: 0,0:03:05.43,0:03:05.47,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.94\fscy99.94\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.05\pos(340.92,617.07)}哈~
+Dialogue: 0,0:03:05.47,0:03:05.51,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.94\fscy99.94\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.06\pos(340.83,616.96)}哈~
+Dialogue: 0,0:03:05.51,0:03:05.56,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.96\fscy99.96\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.03\pos(340.77,616.87)}哈~
+Dialogue: 0,0:03:05.56,0:03:05.60,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.96\fscy99.96\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.03\pos(340.71,616.76)}哈~
+Dialogue: 0,0:03:05.60,0:03:05.64,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.98\fscy99.98\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.02\pos(340.67,616.71)}哈~
+Dialogue: 0,0:03:05.64,0:03:05.68,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.98\fscy99.98\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.01\pos(340.64,616.65)}哈~
+Dialogue: 0,0:03:05.68,0:03:05.72,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.98\fscy99.98\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.01\pos(340.62,616.62)}哈~
+Dialogue: 0,0:03:05.72,0:03:05.76,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx99.99\fscy99.99\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.01\pos(340.60,616.59)}哈~
+Dialogue: 0,0:03:05.76,0:03:05.81,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx100.00\fscy100.00\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.00\pos(340.58,616.57)}哈~
+Dialogue: 0,0:03:05.81,0:03:05.85,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx100.00\fscy100.00\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.00\pos(340.58,616.56)}哈~
+Dialogue: 0,0:03:05.85,0:03:05.89,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx100.00\fscy100.00\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.00\pos(340.58,616.57)}哈~
+Dialogue: 0,0:03:05.89,0:03:05.93,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx100.00\fscy100.00\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.00\pos(340.58,616.57)}哈~
+Dialogue: 0,0:03:05.93,0:03:05.97,Screen,,0,0,0,,{\an5\fn@方正达利体简繁 Heavy\fs106\fscx100.00\fscy100.00\c&HEFEEB5&\bord2\3c&HD1B777&\shad0\blur0.5\alpha&H00&\frz282.00\pos(340.58,616.57)}哈~
 Dialogue: 0,0:03:07.02,0:03:10.10,Ari日,41,0,0,0,,今朝はシーナに髪とかしてもらわなかったのね
 Dialogue: 1,0:03:07.02,0:03:10.10,Ari中,40,0,0,0,,今天席娜没帮你梳头发啊
 Dialogue: 0,0:03:10.68,0:03:13.38,Mimi日,21,0,0,0,,シーナは まだ寝てたから
@@ -394,18 +428,130 @@ Dialogue: 0,0:07:03.40,0:07:04.63,Asuta日,81,0,0,0,,よかった
 Dialogue: 1,0:07:03.40,0:07:04.63,Asuta中,80,0,0,0,,太好了
 Dialogue: 0,0:07:05.29,0:07:06.89,Asuta日,81,0,0,0,,じゃあ これ
 Dialogue: 1,0:07:05.29,0:07:06.89,Asuta中,80,0,0,0,,那 这个给你
-Dialogue: 0,0:07:05.86,0:07:05.90,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs250\blur5\pos(109.71,468)}沉
-Dialogue: 0,0:07:05.86,0:07:05.90,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs250\blur5\pos(1924.57,468)}重
-Dialogue: 0,0:07:05.90,0:07:05.95,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs200\blur4\pos(204.57,485.15)}沉
-Dialogue: 0,0:07:05.90,0:07:05.95,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs200\blur4\pos(1845.71,485.15)}重
-Dialogue: 0,0:07:05.95,0:07:05.99,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs190\blur3\pos(278.86,520.58)}沉
-Dialogue: 0,0:07:05.95,0:07:05.99,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs190\blur3\pos(1753.14,520.58)}重
-Dialogue: 0,0:07:05.99,0:07:06.03,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs180\blur2\pos(338.29,553.72)}沉
-Dialogue: 0,0:07:05.99,0:07:06.03,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs190\blur2\pos(1690.28,553.72)}重
-Dialogue: 0,0:07:06.03,0:07:06.07,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs175\pos(378.29,569.72)}沉
-Dialogue: 0,0:07:06.03,0:07:06.07,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs175\pos(1659.42,569.72)}重
-Dialogue: 0,0:07:06.07,0:07:08.41,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs175\pos(378.29,569.72)}沉
-Dialogue: 0,0:07:06.07,0:07:08.41,Screen,,0,0,0,,{\fn方正少儿_GBK\c&H545570&\b1\fs175\pos(1659.42,569.72)}重
+Dialogue: 0,0:07:05.84,0:07:05.88,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx175.20\fscy175.20\c&H545570&\bord0\shad0\blur5.5\pos(-11.99,442.41)}沉
+Dialogue: 0,0:07:05.84,0:07:05.88,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx175.20\fscy175.20\c&H545570&\bord0\shad0\blur5.5\pos(2142.90,411.03)}重
+Dialogue: 0,0:07:05.88,0:07:05.92,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx151.76\fscy151.76\c&H545570&\bord0\shad0\blur4\pos(119.83,497.53)}沉
+Dialogue: 0,0:07:05.88,0:07:05.92,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx151.76\fscy151.76\c&H545570&\bord0\shad0\blur4\pos(1984.62,467.53)}重
+Dialogue: 0,0:07:05.92,0:07:05.96,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx134.25\fscy134.25\c&H545570&\bord0\shad0\blur2.8\pos(217.20,538.17)}沉
+Dialogue: 0,0:07:05.92,0:07:05.96,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx134.25\fscy134.25\c&H545570&\bord0\shad0\blur2.8\pos(1867.33,517.47)}重
+Dialogue: 0,0:07:05.96,0:07:06.00,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx121.06\fscy121.06\c&H545570&\bord0\shad0\blur1.8\pos(290.51,568.80)}沉
+Dialogue: 0,0:07:05.96,0:07:06.00,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx121.06\fscy121.06\c&H545570&\bord0\shad0\blur1.8\pos(1775.96,550.72)}重
+Dialogue: 0,0:07:06.00,0:07:06.05,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx111.16\fscy111.16\c&H545570&\bord0\shad0\blur1.1\pos(343.63,589.08)}沉
+Dialogue: 0,0:07:06.00,0:07:06.05,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx111.16\fscy111.16\c&H545570&\bord0\shad0\blur1.1\pos(1709.94,573.04)}重
+Dialogue: 0,0:07:06.05,0:07:06.09,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx105.71\fscy105.71\c&H545570&\bord0\shad0\blur0.7\pos(373.33,600.34)}沉
+Dialogue: 0,0:07:06.05,0:07:06.09,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx105.60\fscy105.60\c&H545570&\bord0\shad0\blur0.7\pos(1673.13,585.47)}重
+Dialogue: 0,0:07:06.09,0:07:06.13,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx104.79\fscy104.79\c&H545570&\bord0\shad0\blur0.55\pos(378.05,601.77)}沉
+Dialogue: 0,0:07:06.09,0:07:06.13,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx104.74\fscy104.74\c&H545570&\bord0\shad0\blur0.55\pos(1667.29,587.37)}重
+Dialogue: 0,0:07:06.13,0:07:06.17,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx104.25\fscy104.25\c&H545570&\bord0\shad0\blur0.55\pos(380.58,602.12)}沉
+Dialogue: 0,0:07:06.13,0:07:06.17,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx104.23\fscy104.23\c&H545570&\bord0\shad0\blur0.55\pos(1664.15,588.15)}重
+Dialogue: 0,0:07:06.17,0:07:06.21,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.87\fscy103.87\c&H545570&\bord0\shad0\blur0.55\pos(382.21,602.30)}沉
+Dialogue: 0,0:07:06.17,0:07:06.21,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.82\fscy103.82\c&H545570&\bord0\shad0\blur0.55\pos(1661.90,588.50)}重
+Dialogue: 0,0:07:06.21,0:07:06.25,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.59\fscy103.59\c&H545570&\bord0\shad0\blur0.55\pos(383.48,602.32)}沉
+Dialogue: 0,0:07:06.21,0:07:06.25,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.54\fscy103.54\c&H545570&\bord0\shad0\blur0.55\pos(1660.17,588.73)}重
+Dialogue: 0,0:07:06.25,0:07:06.30,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.27\fscy103.27\c&H545570&\bord0\shad0\blur0.55\pos(384.48,601.94)}沉
+Dialogue: 0,0:07:06.25,0:07:06.30,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.21\fscy103.21\c&H545570&\bord0\shad0\blur0.55\pos(1658.85,588.77)}重
+Dialogue: 0,0:07:06.30,0:07:06.34,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.09\fscy103.09\c&H545570&\bord0\shad0\blur0.55\pos(385.22,601.83)}沉
+Dialogue: 0,0:07:06.30,0:07:06.34,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx103.07\fscy103.07\c&H545570&\bord0\shad0\blur0.55\pos(1657.72,588.92)}重
+Dialogue: 0,0:07:06.34,0:07:06.38,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.83\fscy102.83\c&H545570&\bord0\shad0\blur0.55\pos(385.90,601.32)}沉
+Dialogue: 0,0:07:06.34,0:07:06.38,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.76\fscy102.76\c&H545570&\bord0\shad0\blur0.55\pos(1656.75,588.72)}重
+Dialogue: 0,0:07:06.38,0:07:06.42,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.68\fscy102.68\c&H545570&\bord0\shad0\blur0.55\pos(386.42,601.05)}沉
+Dialogue: 0,0:07:06.38,0:07:06.42,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.66\fscy102.66\c&H545570&\bord0\shad0\blur0.55\pos(1656.03,588.75)}重
+Dialogue: 0,0:07:06.42,0:07:06.46,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.54\fscy102.54\c&H545570&\bord0\shad0\blur0.55\pos(386.78,600.73)}沉
+Dialogue: 0,0:07:06.42,0:07:06.46,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.49\fscy102.49\c&H545570&\bord0\shad0\blur0.55\pos(1655.34,588.54)}重
+Dialogue: 0,0:07:06.46,0:07:06.50,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.34\fscy102.34\c&H545570&\bord0\shad0\blur0.55\pos(387.16,600.04)}沉
+Dialogue: 0,0:07:06.46,0:07:06.50,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.33\fscy102.33\c&H545570&\bord0\shad0\blur0.55\pos(1654.84,588.35)}重
+Dialogue: 0,0:07:06.50,0:07:06.55,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.19\fscy102.19\c&H545570&\bord0\shad0\blur0.55\pos(387.46,599.50)}沉
+Dialogue: 0,0:07:06.50,0:07:06.55,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.20\fscy102.20\c&H545570&\bord0\shad0\blur0.55\pos(1654.32,588.18)}重
+Dialogue: 0,0:07:06.55,0:07:06.59,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.08\fscy102.08\c&H545570&\bord0\shad0\blur0.55\pos(387.65,599.06)}沉
+Dialogue: 0,0:07:06.55,0:07:06.59,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx102.07\fscy102.07\c&H545570&\bord0\shad0\blur0.55\pos(1653.99,587.93)}重
+Dialogue: 0,0:07:06.59,0:07:06.63,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.99\fscy101.99\c&H545570&\bord0\shad0\blur0.55\pos(387.77,598.64)}沉
+Dialogue: 0,0:07:06.59,0:07:06.63,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.97\fscy101.97\c&H545570&\bord0\shad0\blur0.55\pos(1653.64,587.66)}重
+Dialogue: 0,0:07:06.63,0:07:06.67,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.90\fscy101.90\c&H545570&\bord0\shad0\blur0.55\pos(387.86,598.15)}沉
+Dialogue: 0,0:07:06.63,0:07:06.67,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.86\fscy101.86\c&H545570&\bord0\shad0\blur0.55\pos(1653.40,587.41)}重
+Dialogue: 0,0:07:06.67,0:07:06.71,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.80\fscy101.80\c&H545570&\bord0\shad0\blur0.55\pos(387.92,597.54)}沉
+Dialogue: 0,0:07:06.67,0:07:06.71,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.72\fscy101.72\c&H545570&\bord0\shad0\blur0.55\pos(1653.15,586.97)}重
+Dialogue: 0,0:07:06.71,0:07:06.75,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.68\fscy101.68\c&H545570&\bord0\shad0\blur0.55\pos(387.99,596.90)}沉
+Dialogue: 0,0:07:06.71,0:07:06.75,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.65\fscy101.65\c&H545570&\bord0\shad0\blur0.55\pos(1652.99,586.74)}重
+Dialogue: 0,0:07:06.75,0:07:06.80,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.61\fscy101.61\c&H545570&\bord0\shad0\blur0.55\pos(387.96,596.36)}沉
+Dialogue: 0,0:07:06.75,0:07:06.80,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.58\fscy101.58\c&H545570&\bord0\shad0\blur0.55\pos(1652.87,586.45)}重
+Dialogue: 0,0:07:06.80,0:07:06.84,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.55\fscy101.55\c&H545570&\bord0\shad0\blur0.55\pos(387.92,595.83)}沉
+Dialogue: 0,0:07:06.80,0:07:06.84,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.50\fscy101.50\c&H545570&\bord0\shad0\blur0.55\pos(1652.79,586.07)}重
+Dialogue: 0,0:07:06.84,0:07:06.88,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.47\fscy101.47\c&H545570&\bord0\shad0\blur0.55\pos(387.86,595.21)}沉
+Dialogue: 0,0:07:06.84,0:07:06.88,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.44\fscy101.44\c&H545570&\bord0\shad0\blur0.55\pos(1652.77,585.78)}重
+Dialogue: 0,0:07:06.88,0:07:06.92,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.42\fscy101.42\c&H545570&\bord0\shad0\blur0.55\pos(387.77,594.61)}沉
+Dialogue: 0,0:07:06.88,0:07:06.92,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.37\fscy101.37\c&H545570&\bord0\shad0\blur0.55\pos(1652.69,585.40)}重
+Dialogue: 0,0:07:06.92,0:07:06.96,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.31\fscy101.31\c&H545570&\bord0\shad0\blur0.55\pos(387.68,593.87)}沉
+Dialogue: 0,0:07:06.92,0:07:06.96,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.30\fscy101.30\c&H545570&\bord0\shad0\blur0.55\pos(1652.77,584.99)}重
+Dialogue: 0,0:07:06.96,0:07:07.00,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.27\fscy101.27\c&H545570&\bord0\shad0\blur0.55\pos(387.50,593.32)}沉
+Dialogue: 0,0:07:06.96,0:07:07.00,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.21\fscy101.21\c&H545570&\bord0\shad0\blur0.55\pos(1652.71,584.59)}重
+Dialogue: 0,0:07:07.00,0:07:07.05,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.19\fscy101.19\c&H545570&\bord0\shad0\blur0.55\pos(387.40,592.65)}沉
+Dialogue: 0,0:07:07.00,0:07:07.05,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.18\fscy101.18\c&H545570&\bord0\shad0\blur0.55\pos(1652.78,584.30)}重
+Dialogue: 0,0:07:07.05,0:07:07.09,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.14\fscy101.14\c&H545570&\bord0\shad0\blur0.55\pos(387.18,591.97)}沉
+Dialogue: 0,0:07:07.05,0:07:07.09,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.10\fscy101.10\c&H545570&\bord0\shad0\blur0.55\pos(1652.76,583.88)}重
+Dialogue: 0,0:07:07.09,0:07:07.13,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.07\fscy101.07\c&H545570&\bord0\shad0\blur0.55\pos(387.02,591.23)}沉
+Dialogue: 0,0:07:07.09,0:07:07.13,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.09\fscy101.09\c&H545570&\bord0\shad0\blur0.55\pos(1652.93,583.54)}重
+Dialogue: 0,0:07:07.13,0:07:07.17,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.02\fscy101.02\c&H545570&\bord0\shad0\blur0.55\pos(386.83,590.59)}沉
+Dialogue: 0,0:07:07.13,0:07:07.17,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.03\fscy101.03\c&H545570&\bord0\shad0\blur0.55\pos(1653.01,583.06)}重
+Dialogue: 0,0:07:07.17,0:07:07.21,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.99\fscy100.99\c&H545570&\bord0\shad0\blur0.55\pos(386.62,589.97)}沉
+Dialogue: 0,0:07:07.17,0:07:07.21,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx101.01\fscy101.01\c&H545570&\bord0\shad0\blur0.55\pos(1653.11,582.73)}重
+Dialogue: 0,0:07:07.21,0:07:07.26,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.93\fscy100.93\c&H545570&\bord0\shad0\blur0.55\pos(386.43,589.26)}沉
+Dialogue: 0,0:07:07.21,0:07:07.26,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.94\fscy100.94\c&H545570&\bord0\shad0\blur0.55\pos(1653.25,582.24)}重
+Dialogue: 0,0:07:07.26,0:07:07.30,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.90\fscy100.90\c&H545570&\bord0\shad0\blur0.55\pos(386.21,588.64)}沉
+Dialogue: 0,0:07:07.26,0:07:07.30,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.90\fscy100.90\c&H545570&\bord0\shad0\blur0.55\pos(1653.43,581.82)}重
+Dialogue: 0,0:07:07.30,0:07:07.34,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.86\fscy100.86\c&H545570&\bord0\shad0\blur0.55\pos(385.92,587.92)}沉
+Dialogue: 0,0:07:07.30,0:07:07.34,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.86\fscy100.86\c&H545570&\bord0\shad0\blur0.55\pos(1653.56,581.44)}重
+Dialogue: 0,0:07:07.34,0:07:07.38,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.84\fscy100.84\c&H545570&\bord0\shad0\blur0.55\pos(385.65,587.28)}沉
+Dialogue: 0,0:07:07.34,0:07:07.38,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.80\fscy100.80\c&H545570&\bord0\shad0\blur0.55\pos(1653.82,580.82)}重
+Dialogue: 0,0:07:07.38,0:07:07.42,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.77\fscy100.77\c&H545570&\bord0\shad0\blur0.55\pos(385.31,586.49)}沉
+Dialogue: 0,0:07:07.38,0:07:07.42,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.77\fscy100.77\c&H545570&\bord0\shad0\blur0.55\pos(1654.00,580.44)}重
+Dialogue: 0,0:07:07.42,0:07:07.46,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.75\fscy100.75\c&H545570&\bord0\shad0\blur0.55\pos(385.04,585.85)}沉
+Dialogue: 0,0:07:07.42,0:07:07.46,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.72\fscy100.72\c&H545570&\bord0\shad0\blur0.55\pos(1654.21,579.98)}重
+Dialogue: 0,0:07:07.46,0:07:07.51,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.76\fscy100.76\c&H545570&\bord0\shad0\blur0.55\pos(384.73,585.28)}沉
+Dialogue: 0,0:07:07.46,0:07:07.51,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.75\fscy100.75\c&H545570&\bord0\shad0\blur0.55\pos(1654.47,579.71)}重
+Dialogue: 0,0:07:07.51,0:07:07.55,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.69\fscy100.69\c&H545570&\bord0\shad0\blur0.55\pos(384.49,584.41)}沉
+Dialogue: 0,0:07:07.51,0:07:07.55,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.72\fscy100.72\c&H545570&\bord0\shad0\blur0.55\pos(1654.67,579.24)}重
+Dialogue: 0,0:07:07.55,0:07:07.59,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.66\fscy100.66\c&H545570&\bord0\shad0\blur0.55\pos(384.17,583.73)}沉
+Dialogue: 0,0:07:07.55,0:07:07.59,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.66\fscy100.66\c&H545570&\bord0\shad0\blur0.55\pos(1654.90,578.71)}重
+Dialogue: 0,0:07:07.59,0:07:07.63,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.62\fscy100.62\c&H545570&\bord0\shad0\blur0.55\pos(383.90,582.97)}沉
+Dialogue: 0,0:07:07.59,0:07:07.63,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.61\fscy100.61\c&H545570&\bord0\shad0\blur0.55\pos(1655.12,578.19)}重
+Dialogue: 0,0:07:07.63,0:07:07.67,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.62\fscy100.62\c&H545570&\bord0\shad0\blur0.55\pos(383.47,582.36)}沉
+Dialogue: 0,0:07:07.63,0:07:07.67,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.59\fscy100.59\c&H545570&\bord0\shad0\blur0.55\pos(1655.44,577.72)}重
+Dialogue: 0,0:07:07.67,0:07:07.71,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.58\fscy100.58\c&H545570&\bord0\shad0\blur0.55\pos(383.18,581.64)}沉
+Dialogue: 0,0:07:07.67,0:07:07.71,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.53\fscy100.53\c&H545570&\bord0\shad0\blur0.55\pos(1655.68,577.20)}重
+Dialogue: 0,0:07:07.71,0:07:07.76,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.56\fscy100.56\c&H545570&\bord0\shad0\blur0.55\pos(382.85,580.93)}沉
+Dialogue: 0,0:07:07.71,0:07:07.76,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.51\fscy100.51\c&H545570&\bord0\shad0\blur0.55\pos(1655.93,576.77)}重
+Dialogue: 0,0:07:07.76,0:07:07.80,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.54\fscy100.54\c&H545570&\bord0\shad0\blur0.55\pos(382.54,580.19)}沉
+Dialogue: 0,0:07:07.76,0:07:07.80,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.53\fscy100.53\c&H545570&\bord0\shad0\blur0.55\pos(1656.19,576.39)}重
+Dialogue: 0,0:07:07.80,0:07:07.84,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.48\fscy100.48\c&H545570&\bord0\shad0\blur0.55\pos(382.23,579.38)}沉
+Dialogue: 0,0:07:07.80,0:07:07.84,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.48\fscy100.48\c&H545570&\bord0\shad0\blur0.55\pos(1656.47,575.84)}重
+Dialogue: 0,0:07:07.84,0:07:07.88,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.47\fscy100.47\c&H545570&\bord0\shad0\blur0.55\pos(381.90,578.70)}沉
+Dialogue: 0,0:07:07.84,0:07:07.88,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.46\fscy100.46\c&H545570&\bord0\shad0\blur0.55\pos(1656.71,575.42)}重
+Dialogue: 0,0:07:07.88,0:07:07.92,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.46\fscy100.46\c&H545570&\bord0\shad0\blur0.55\pos(381.48,578.05)}沉
+Dialogue: 0,0:07:07.88,0:07:07.92,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.42\fscy100.42\c&H545570&\bord0\shad0\blur0.55\pos(1657.03,574.93)}重
+Dialogue: 0,0:07:07.92,0:07:07.96,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.45\fscy100.45\c&H545570&\bord0\shad0\blur0.55\pos(381.16,577.36)}沉
+Dialogue: 0,0:07:07.92,0:07:07.96,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.38\fscy100.38\c&H545570&\bord0\shad0\blur0.55\pos(1657.37,574.39)}重
+Dialogue: 0,0:07:07.96,0:07:08.01,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.38\fscy100.38\c&H545570&\bord0\shad0\blur0.55\pos(380.85,576.52)}沉
+Dialogue: 0,0:07:07.96,0:07:08.01,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.35\fscy100.35\c&H545570&\bord0\shad0\blur0.55\pos(1657.63,573.89)}重
+Dialogue: 0,0:07:08.01,0:07:08.05,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.38\fscy100.38\c&H545570&\bord0\shad0\blur0.55\pos(380.55,575.85)}沉
+Dialogue: 0,0:07:08.01,0:07:08.05,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.38\fscy100.38\c&H545570&\bord0\shad0\blur0.55\pos(1657.88,573.57)}重
+Dialogue: 0,0:07:08.05,0:07:08.09,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.34\fscy100.34\c&H545570&\bord0\shad0\blur0.55\pos(380.19,575.13)}沉
+Dialogue: 0,0:07:08.05,0:07:08.09,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.36\fscy100.36\c&H545570&\bord0\shad0\blur0.55\pos(1658.11,573.15)}重
+Dialogue: 0,0:07:08.09,0:07:08.13,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.32\fscy100.32\c&H545570&\bord0\shad0\blur0.55\pos(379.94,574.46)}沉
+Dialogue: 0,0:07:08.09,0:07:08.13,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.32\fscy100.32\c&H545570&\bord0\shad0\blur0.55\pos(1658.39,572.75)}重
+Dialogue: 0,0:07:08.13,0:07:08.17,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.29\fscy100.29\c&H545570&\bord0\shad0\blur0.55\pos(379.58,573.75)}沉
+Dialogue: 0,0:07:08.13,0:07:08.17,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.24\fscy100.24\c&H545570&\bord0\shad0\blur0.55\pos(1658.63,572.10)}重
+Dialogue: 0,0:07:08.17,0:07:08.21,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.28\fscy100.28\c&H545570&\bord0\shad0\blur0.55\pos(379.27,573.08)}沉
+Dialogue: 0,0:07:08.17,0:07:08.21,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.25\fscy100.25\c&H545570&\bord0\shad0\blur0.55\pos(1658.92,571.72)}重
+Dialogue: 0,0:07:08.21,0:07:08.26,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.25\fscy100.25\c&H545570&\bord0\shad0\blur0.55\pos(378.97,572.45)}沉
+Dialogue: 0,0:07:08.21,0:07:08.26,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.20\fscy100.20\c&H545570&\bord0\shad0\blur0.55\pos(1659.10,571.32)}重
+Dialogue: 0,0:07:08.26,0:07:08.30,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.20\fscy100.20\c&H545570&\bord0\shad0\blur0.55\pos(378.76,571.79)}沉
+Dialogue: 0,0:07:08.26,0:07:08.30,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.14\fscy100.14\c&H545570&\bord0\shad0\blur0.55\pos(1659.29,570.84)}重
+Dialogue: 0,0:07:08.30,0:07:08.34,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.16\fscy100.16\c&H545570&\bord0\shad0\blur0.55\pos(378.56,571.10)}沉
+Dialogue: 0,0:07:08.30,0:07:08.34,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.13\fscy100.13\c&H545570&\bord0\shad0\blur0.55\pos(1659.36,570.50)}重
+Dialogue: 0,0:07:08.34,0:07:08.38,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.14\fscy100.14\c&H545570&\bord0\shad0\blur0.55\pos(378.38,570.53)}沉
+Dialogue: 0,0:07:08.34,0:07:08.38,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.07\fscy100.07\c&H545570&\bord0\shad0\blur0.55\pos(1659.43,570.05)}重
+Dialogue: 0,0:07:08.38,0:07:08.42,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.00\fscy100.00\c&H545570&\bord0\shad0\blur0.55\pos(378.29,569.72)}沉
+Dialogue: 0,0:07:08.38,0:07:08.42,Screen,,0,0,0,,{\an5\fn方正少儿_GBK\b1\fs175\fscx100.00\fscy100.00\c&H545570&\bord0\shad0\blur0.55\pos(1659.42,569.72)}重
 Dialogue: 0,0:07:07.28,0:07:08.41,Shiina日,,0,0,0,,な…何ですか
 Dialogue: 1,0:07:07.28,0:07:08.41,Shiina中,,0,0,0,,这…是什么
 Dialogue: 0,0:07:08.74,0:07:10.04,Asuta日,81,0,0,0,,二人で食べて
